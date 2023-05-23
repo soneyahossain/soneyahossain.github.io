@@ -1,0 +1,41 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Soneya Hossain
+tagline:          'Soneya Hossain'
+description:      'PhD Candidate at the University of Virginia'
+url:              https://soneyahossain.github.io
+#baseurl:          /
+
+author:
+  name:           'Soneya Hossain'
+  #url:            https://soneyahossain.github.io
+
+logo:             /assets/img/test.jpg
+#paginate:         5
+gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist, jekyll-include-cache]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-include-cache
+
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/soneyahossain/soneyahossain.github.io/
+
+tags:
+
+email_username: 'sh7hv@virginia.edu'
+github_username:  soneyahossain
+scholar_username: 'https://scholar.google.com/citations?user=xDDfwB8AAAAJ&hl=en'
+linkedin_username: Soneya
+
