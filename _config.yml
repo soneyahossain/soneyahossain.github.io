@@ -17,7 +17,7 @@ author:
   name:           'Soneya Hossain'
   #url:            https://soneyahossain.github.io
 
-logo:             /assets/img/profile.png
+logo:             /assets/img/IMG_1550.jpg
 #paginate:         5
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jekyll-gist, jekyll-include-cache]
 
