@@ -11,7 +11,6 @@ My research is focused on enhancing automated software testing and verification 
 
 Before pursuing my PhD, I obtained an undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016. Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com) from 2016 to 2019, gaining invaluable industry experience.
 
-Overall, I am very hopeful that my academic and professional background, coupled with my research contributions, will enable me to make a meaningful impact in the field of automated software testing and verification.
 
 
 [\[Resume\]](https://drive.google.com/file/d/1F9nySMguiYvxkB5b1glYeAzV9pIMLPd5/view)
