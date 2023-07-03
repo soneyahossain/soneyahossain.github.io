@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a PhD candidate in the Department of Computer Science at the University of Virginia (UVA), where I have been conducting research under the guidance of [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/) and collaborating with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). Since August 2019, I have been proudly affiliated with the [Laboratory for Engineering Safe Software (LESS)](https://less-lab-uva.github.io/) lab at UVA.
+I am a PhD candidate in the Department of Computer Science at the University of Virginia (UVA), where I have been conducting research under the guidance of [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/) and collaborating with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). Since August 2019, I have been proudly affiliated with the [Leading Engineering For Safe Software (LESS)](https://less-lab-uva.github.io/) lab at UVA.
 
 
 My research is focused on enhancing automated software testing and verification for safety-critical systems. I have proposed techniques that primarily rely on static/dynamic program analyses, machine/deep learning, fault-based testing to evaluate developer-written test suites, identify their limitations, and leverage those limitations to improve their quality, specifically in terms of their ability to detect faults.
