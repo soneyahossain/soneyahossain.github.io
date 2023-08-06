@@ -5,7 +5,7 @@ title: Projects
 
 
 
-## Large-scale Evaluation of a Neural-based Test Oracle Generation Technique
+## Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned
 
 <img src="../assets/img/toga.png"
      alt="toga"
