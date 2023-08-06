@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-I am a PhD candidate in the Department of Computer Science at the University of Virginia (UVA), where I have been conducting research under the guidance of [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/) and collaborating with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). Since August 2019, I have been proudly affiliated with the [Leading Engineering For Safe Software (LESS)](https://less-lab-uva.github.io/) lab at UVA.
+I'm a 4th year PhD candidate in Computer Science at the University of Virginia (UVA). Since fall'19, I am a proud member of the [LESS](https://less-lab-uva.github.io/) lab at UVA. I am advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/), and I also work closely with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum).  
 
 
-My research is focused on enhancing automated software testing and verification for safety-critical systems. I have proposed techniques that primarily rely on static/dynamic program analyses, machine/deep learning, fault-based testing to evaluate developer-written test suites, identify their limitations, and leverage those limitations to improve their quality, specifically in terms of their ability to detect faults.
+I have a strong interest in Software Testing and Verification, Automated Bug Repair, and the application of AI/ML in Software Engineering. 
 
 
-Before pursuing my PhD, I obtained an undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/) in 2016. Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com) from 2016 to 2019, gaining invaluable industry experience.
+Before pursuing my PhD, I obtained an undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com).
 
 
 
