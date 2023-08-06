@@ -5,15 +5,9 @@ title: About
 
 I'm a 4th year PhD candidate in Computer Science at the University of Virginia (UVA). Since fall'19, I am a proud member of the [LESS](https://less-lab-uva.github.io/) lab at UVA. I am advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/), and I also work closely with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum).  
 
-
 I have a strong interest in Software Testing and Verification, Automated Bug Repair, and the application of AI/ML in Software Engineering. 
 
-
 Before pursuing my PhD, I obtained an undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com).
-
-
-
-[\[Resume\]](https://drive.google.com/file/d/1F9nySMguiYvxkB5b1glYeAzV9pIMLPd5/view)
 
 
 ### Experience
