@@ -15,7 +15,7 @@ title: Publications
 * **Large-scale Evaluation of a Neural-based Test Oracle Generation Technique** <br />
   *Soneya Binta Hossain*, Antonio Filieri, Matthew Dwyer, Sebastian Elbaum, Willem Visser  <br />
   [Proceedings of the 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)](https://conf.researchr.org/home/fse-2023)
-  [\[paper\]] (https://arxiv.org/pdf/2307.16023.pdf)
+  [\[paper\]](https://arxiv.org/pdf/2307.16023.pdf)
 
 
 ### Preprint
