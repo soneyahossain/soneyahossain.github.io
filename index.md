@@ -21,7 +21,7 @@ Before pursuing my PhD, I obtained an undergraduate degree in Computer Science a
 * Graduate Research Assistant, LESS Lab, UVa (2019-present) <br />
   <font size = 4 > Advisor: Dr. Matthew Dwyer</font>
 * Applied Scientist Intern, Amazon AWS (Summer'22 and Summer'23)  <br />
-  <font size = 4 > Mentor: Willem Visser and Antonio Filieri </font>
+  <font size = 4 > Mentor: Willem Visser (Summer'22), Antonio Filieri (Summer'22), Qiang Zhou (Summer'23) </font>
 * Graduate Teaching Assistant, Department of CS, UVa <br />
   <font size = 4 ><a href="https://matthewbdwyer.github.io/6620/" style="text-decoration: none">Graduate Compilers (CS 6620)</a>, <a href="https://matthewbdwyer.github.io/4620/" style="text-decoration: none">Undergraduate Compilers (CS 4620) </a></font>
 * Software Development Engineer, REVE Systems (R&D) (2016-2019)
@@ -46,7 +46,7 @@ Before pursuing my PhD, I obtained an undergraduate degree in Computer Science a
 
 ### News
 
-
+* July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track 
 * June, 2023 --- Started working at Amazon AWS Code Guru team in Santa Clara, CA
 * May, 2023 --- Presented my paper at ICSE'23 in Melbourne, Australia
 * May, 2023 --- Received [John A. Stankovic Outstanding Graduate Research Award!!!](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023)
