@@ -15,7 +15,7 @@ title: Projects
 
 Unlike automated test inputs generation, high-quality automated test oracle generation is comparatively less well solved by the software engineering community. Recently, neural-based test oracle generation techniques have shown promise in detecting real-world faults. However, these techniques generate too many false positive assertions that do more harm than good. In a large-scale study of 25 real-world Java systems, we evaluated a few recently published state-of-the-art machine learning and deep learning-based automated test oracle generation techniques. 
 
-Details: Coming soon!
+Details: [\[paper (FSE'23)\]](https://arxiv.org/pdf/2307.16023)
 
 
 ## Measuring and Mitigating Gaps in Structural Testing
