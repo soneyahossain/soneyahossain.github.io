@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Average", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -82,21 +82,21 @@ html {
   /*color: #fff;*/
   color:  #515151;
   /*margin-top: 0;*/
-  margin-top:-1; /* space above the avatar */
-  margin-bottom: -2;
-  font-family: "Abril Fatface", serif;
+  margin-top:0; /* space above the avatar */
+  margin-bottom: 2;/* space below the avatar */
+  font-family: "Crimson Text", serif;
   /*font-size: 3.25rem;*/
   font-size: 1.9rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 0rem; /* space below the social icons*/
-  margin-top:  2.5rem; /* space above the "about" in sidebar */
+  margin-bottom: 2rem; /* space below the social icons*/
+  margin-top:  0rem; /* space above the "about" in sidebar */
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.5;
+  line-height: 1.8;
   font-size: 1.3rem; /* fontsize of sidebar items */
 }
 a.sidebar-nav-item:hover,
@@ -117,8 +117,9 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: -1rem;
+    bottom: -1rem; /* space below the copyright */
     left:   1rem;
+/*    top: -2rem;*/
   }
 }
 
@@ -132,7 +133,7 @@ a.sidebar-nav-item:focus {
 .content {
   /*padding-top:    4rem;
   padding-bottom: 4rem;*/
-  padding-top:    1rem;  /* space in the body above "About" */
+  padding-top:    0rem;  /* space in the body above "About" */
   padding-bottom: 2rem;
 }
 
@@ -156,8 +157,8 @@ a.sidebar-nav-item:focus {
 
 .avatar {
 
-  width: 11rem;
-  height: 11rem;
+  width: 10rem;
+  height: 10rem;
   border-radius: 100%;
   overflow: hidden;
   display: inline-block;
@@ -167,7 +168,7 @@ a.sidebar-nav-item:focus {
   z-index: 1;
   margin-bottom: 0rem; /* space between avatar and name */
   margin-top: 0rem;
-  margin-left: 1.5 rem;
+  margin-left: 0rem;
   margin-right: 0rem;
 
 }
@@ -179,8 +180,8 @@ a.sidebar-nav-item:focus {
   box-sizing: content-box;
   border: 1rem solid var(--body-bg);
   transition: border-color 1s ease;
-  margin-top: -1.5rem;
-  margin-right: -1rem;
+  margin-top: 0rem;
+  margin-right: 0rem;
 }
 
 
