@@ -30,7 +30,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
   
 ### Leadership
 
-* Mentor, University of Virginia <br />
+* Mentor, University of Virginia  
 <font size="4">
   Mentees:
   <ul>
