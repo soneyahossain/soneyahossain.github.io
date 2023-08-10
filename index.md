@@ -31,7 +31,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 ### Service
 
 * Student Mentor, University of Virginia <br />
-  <font size="4">Mentees: Nicki Choquette, Kasra Lekan, <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari</a></font>
+  <font size="4">Mentee: Nicki Choquette (CS, UVa), Kasra Lekan (CS, UVa), <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart (CS, UF)</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari (CpE, UVa)</a></font>
 * Leadership Chair, [Computer Science Department Graduate Student Group](https://csgsg.org/), UVA (Jan'20 - Dec'22)
 * Social Chair, [Association of Bangladeshi Students at UVa](https://www.facebook.com/abs.atuva/) (fall'21-summer'22)
 
