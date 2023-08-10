@@ -8,6 +8,13 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 [\[CV\]]({{'/'|relative_url}}assets/CV/CV.pdf)
 
 
+### Education
+
+* Ph.D., Computer Science, University of Virginia
+* M.S., Computer Science, University of Virginia
+* B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology
+
+
 ### Experience
 
 * Graduate Research Assistant, LESS Lab, UVa (2019-present) <br />
@@ -23,17 +30,17 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
   
 ### Leadership
 
-* Mentor, UVa Mentorship Program <br />
-  <font size = 4 ><a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari, CpE, UVa</a>, and <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart, CS, UCF</a></font>
+* Mentor, University of Virginia <br />
+  <font size = 4 > Mentee:  
+
+Nicki Choquette, CS, UVa  
+Kasra Lekan, CS, UVa  
+<a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart, CS, UCF</a></font> 
+<a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari, CpE, UVa</a>  
+
 * Leadership Chair, [Computer Science Department Graduate Student Group](https://csgsg.org/), UVA (Jan'20 - Dec'22)
 * Social Chair, [Association of Bangladeshi Students at UVa](https://www.facebook.com/abs.atuva/) (fall'21-summer'22)
 
-
-### Education
-
-* Ph.D., Computer Science, University of Virginia
-* M.S., Computer Science, University of Virginia
-* B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology
 
 
 ### News
