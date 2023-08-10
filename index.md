@@ -31,9 +31,15 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 ### Leadership
 
 * Mentor, University of Virginia  
+<style>
+    ul.mentee-list {
+        padding-left: 50px; /* This will give a left indent to the list */
+    }
+</style>
+
 <font size="4">
   Mentees:
-  <ul>
+  <ul class="mentee-list">
     <li>Nicki Choquette - CS, UVa</li>
     <li>Kasra Lekan - CS, UVa</li>
     <li><a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart</a> - CS, UCF</li>
