@@ -39,7 +39,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 
 ### News
 
-* October, 2023 --- Honored to Receive the Student Choice Research Award at the CS Department Fall Research Symposium 2023, University of Virginia!!!
+* October, 2023 --- Honored to receive the "Student Choice Research Award" at the CS Department Fall Research Symposium 2023, University of Virginia!!!
 * July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track!!! 
 * June, 2023 --- Started working at Amazon AWS Code Guru team in Santa Clara, CA
 * May, 2023 --- Presented my paper at ICSE'23 in Melbourne, Australia
