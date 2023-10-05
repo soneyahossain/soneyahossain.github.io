@@ -39,13 +39,14 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 
 ### News
 
-* July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track 
+* October, 2023 --- Honored to Receive the Student Choice Research Award at the CS Department Fall Research Symposium 2023, University of Virginia!!!
+* July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track!!! 
 * June, 2023 --- Started working at Amazon AWS Code Guru team in Santa Clara, CA
 * May, 2023 --- Presented my paper at ICSE'23 in Melbourne, Australia
-* May, 2023 --- Received [John A. Stankovic Outstanding Graduate Research Award!!!](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023)
+* May, 2023 --- Received [John A. Stankovic Outstanding Graduate Research Award!!!](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023)!!!
 * April, 2023 --- Attended CRA Grad Cohort in San Francisco, CA
-* February, 2023 --- My research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing)
-* December, 2022 --- My paper on [\"Measuring and Mitigating Gaps in Structural Testing\"](https://doi.org/10.6084/m9.figshare.21932058.v5) is accepted at ICSE'23 technical track
+* February, 2023 --- Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing)
+* December, 2022 --- Our paper on [\"Measuring and Mitigating Gaps in Structural Testing\"](https://doi.org/10.6084/m9.figshare.21932058.v5) is accepted at ICSE'23 technical track
 * May, 2022 --- Started working at Amazon AWS Code Guru team in Seattle
 * May, 2022 --- Received [\"CS Department Outstanding Graduate Service Award\"](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards)
 * April, 2022 --- Attended ICSE'22 in Pittsburgh!!
