@@ -18,6 +18,15 @@ title: Publications
   [\[paper\]](https://arxiv.org/pdf/2307.16023.pdf)
 
 
+### Conference Papers (In preparation)
+
+* **Leveraging Large Language Models for Automated Program Repair** <br />
+  *Soneya Binta Hossain*, Amazon Web Services [submitted] <br />
+
+* **Predictive Mutation Testing via Graph Neural Networks** <br />
+  Will Leeson, *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
+  
+  
 ### Preprint
 * **Oracle-based Test Adequacy Metrics: A Survey** <br />
   *Soneya Binta Hossain*, Matthew Dwyer <br />
