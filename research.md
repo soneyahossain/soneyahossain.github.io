@@ -3,6 +3,13 @@ layout: page
 title: Projects
 ---
 
+## Leveraging Large Language Models for Automated Program Repair
+
+<img src="../assets/img/bug.png"
+alt="toga"
+width="400"
+height="220"
+style="float: right;" />
 
 
 ## Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned
