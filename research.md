@@ -38,7 +38,7 @@ Details: [\[paper (FSE'23)\]](https://arxiv.org/pdf/2307.16023)
 
 <img src="../assets/img/icse23.png"
      alt="icse23"
-     width="350"
+     width="450"
      height="220"
      style="float: right;" />
 
