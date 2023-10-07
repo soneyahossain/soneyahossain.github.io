@@ -11,6 +11,7 @@ width="400"
 height="220"
 style="float: right;" />
 
+This study explores the utility of Large Language Models (LLMs) in automated program repair (APR), specifically in automated bug resolution. Unlike prevailing deep learning-enabled APR methods, which often tackle bug detection and resolution simultaneously, we argue for a distinct separation of these steps into multiple models. This facilitates better integration of various contextual information types and a flexible inclusion of inductive biases. A new comprehensive program repair framework is introduced, comprising a bug detection model, an adjustment mechanism, and a bug resolution model. The approach sets a new benchmark on a widely recognized code refinement metric and showcases superior and competitive results across various datasets used for assessing APR efficiency. Additionally, the paper explores numerous research questions, providing detailed discussions and answers based on thorough experimental analyses.
 
 ## Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned
 
