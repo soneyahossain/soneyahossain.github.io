@@ -15,6 +15,12 @@ This study explores the utility of Large Language Models (LLMs) in automated pro
 
 Details: Coming soon!
 
+## Predictive Mutation Testing via Graph Transformer Network
+
+Mutation testing, characterized by its resource-intensive nature—executing numerous mutants against extensive test suites—poses significant cost implications. In response to this challenge, this research introduces a prediction method founded on Graph Transformer Networks (GTNs), aiming to discern whether a test suite will detect a mutant without necessitating test suite execution. This method formulates a semantic graph derived from a system and its corresponding test suite, employing graph and mutant embeddings to predict mutant termination. Evaluated across various practical Java projects and a significant number of mutants, the method exhibits a marked reduction in test executions relative to conventional mutation testing, with only a slight trade-off in mutation score accuracy, and notably surpasses preceding Predictive Mutation Testing (PMT) methods in terms of accuracy
+
+Details: Coming soon!
+
 ## Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned
 
 <img src="../assets/img/toga.png"
