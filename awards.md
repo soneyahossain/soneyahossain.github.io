@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 ---
-
+* Received 'Student Choice Research Award' at the CS Fall Research Symposium 2023!!!
 * Received [John A. Stankovic Outstanding Graduate Research Award (2022-2-23)](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023)
 * Travel Grant by Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
 * [Department of Computer Science Outstanding Service Award (2021-2022)](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards), 2022 <br />
