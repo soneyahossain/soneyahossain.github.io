@@ -25,7 +25,7 @@ Details: Coming soon!
 
 <img src="../assets/img/toga.png"
      alt="toga"
-     width="350"
+     width="450"
      height="220"
      style="float: right;" />
 
@@ -52,7 +52,7 @@ Details: [\[paper (ICSE'23)\]](https://doi.org/10.6084/m9.figshare.21932058.v5) 
 	
 <img src="../assets/img/slicer.png"
      alt="slicer"
-     width="350"
+     width="450"
      height="220"
      style="float: right;" />
 
