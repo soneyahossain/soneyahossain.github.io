@@ -7,7 +7,7 @@ title: Projects
 
 <img src="../assets/img/bug.png"
 alt="toga"
-width="400"
+width="450"
 height="220"
 style="float: right;" />
 
