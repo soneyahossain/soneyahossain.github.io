@@ -30,6 +30,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
   
 ### Service
 
+* Student Volunteer at FSE'23, Dec 3-9, San Francisco, CA
 * Student Mentor, University of Virginia <br />
   <font size="4">Mentee: Nicki Choquette (CS, UVa), Kasra Lekan (CS, UVa), <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart (CS, UF)</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari (CpE, UVa)</a></font>
 * Leadership Chair, [Computer Science Department Graduate Student Group](https://csgsg.org/), UVA (Jan'20 - Dec'22)
@@ -39,6 +40,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 
 ### News
 
+* December, 2023 --- My paper "Ensuring Critical Properties of Test Oracles for Effective Bug Detection" is accepted at ICSE'23 Doctoral Symposium!!!
 * October, 2023 --- Honored to receive the "Student Choice Research Award" at the CS Department Fall Research Symposium 2023, University of Virginia!!!
 * July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track!!! 
 * June, 2023 --- Started working at Amazon AWS Code Guru team in Santa Clara, CA

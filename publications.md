@@ -19,6 +19,11 @@ title: Publications
   [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) [\[talk\]]({{'/'|relative_url}}assets/presentations/FSE-2023-talk.pdf) [\[artifact\]](https://doi.org/10.6084/m9.figshare.21973091.v4)
 
 
+* **Ensuring Critical Properties of Test Oracles for Effective Bug Detection** <br />
+  *Soneya Binta Hossain* <br />
+  [Proceedings of the 46th International Conference on Software Engineering (ICSE '23)](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)<br />
+
+
 ### Conference Papers (In preparation)
 
 * **Leveraging Large Language Models for Automated Program Repair** <br />
