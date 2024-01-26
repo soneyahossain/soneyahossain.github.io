@@ -53,7 +53,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 - **May 2022**: Started working at the Amazon AWS Code Guru team in Seattle.
 - **May 2022**: Received the [CS Department Outstanding Graduate Service Award](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards).
 - **April 2022**: Attended ICSE'22 in Pittsburgh.
-- **December 2021**: Accepted a summer 2022 internship offer from Amazon AWS as an applied scientist intern.
+- **December 2021**: Accepted a summer 2022 internship offer from Amazon Web Services (AWS) as an applied scientist intern.
 - **December 2021**: Received the [Outstanding Research Poster Award](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium) at the CS Fall Symposium student poster competition.
 - **December 2021**: Organized the [CS Department Research Symposium](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium), [News](https://engineering.virginia.edu/computer-science-graduate-student-group-research-symposium?fbclid=IwAR2r1lHuVFwesevFrsCqezybDSU_u3Fc-vWky6TYbQ4Jepo-gfibiRzgbMc), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
 - **September 2021**: Passed the Ph.D. Qualifying Exam with flying colors.
