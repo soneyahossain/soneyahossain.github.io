@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a 4th-year PhD candidate in Computer Science at the University of Virginia (UVa) and a proud member of the UVa [LESS](https://less-lab-uva.github.io/) lab. My PhD work is advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I also collaborate closely with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). My research interests include Software Testing and Verification for safety-critical systems, Automated Bug Repair, and the application of AI/ML techniques in Software Engineering. Prior to my PhD studies, I earned my undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com).
+I am a 5th-year PhD candidate in Computer Science at the University of Virginia (UVa) and a proud member of the UVa [LESS](https://less-lab-uva.github.io/) lab. My PhD work is advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I also collaborate closely with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). My research interests include Software Testing and Verification for safety-critical systems, Automated Bug Repair, and the application of AI/ML techniques in Software Engineering. Prior to my PhD studies, I earned my undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com).
 
 [\[CV\]]({{'/'|relative_url}}assets/CV/CV.pdf)
 
