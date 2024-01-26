@@ -65,5 +65,32 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 * March, 2016 --- Graduated from BUET!!!
 
 
+### News
+
+- **December 2023**: My paper "[Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)" is accepted at the ICSE'24 Doctoral Symposium.
+- **December 2023**: Attended and presented our [paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616265) at FSE'23 (Dec 3-9) in San Francisco, CA.
+- **October 2023**: Honored to receive the [Student Choice Research Award](https://engineering.virginia.edu/2023-cs-research-symposium-highlights) at the CS Department Fall Research Symposium 2023, University of Virginia.
+- **July 2023**: Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at the FSE'23 research track.
+- **June 2023**: Started working at the Amazon AWS Code Guru team in Santa Clara, CA.
+- **May 2023**: Presented my paper at ICSE'23 in Melbourne, Australia.
+- **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023).
+- **April 2023**: Attended the CRA Grad Cohort in San Francisco, CA.
+- **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
+- **December 2022**: Our paper on ["Measuring and Mitigating Gaps in Structural Testing"](https://doi.org/10.6084/m9.figshare.21932058.v5) is accepted at the ICSE'23 technical track.
+- **May 2022**: Started working at the Amazon AWS Code Guru team in Seattle.
+- **May 2022**: Received the ["CS Department Outstanding Graduate Service Award"](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards).
+- **April 2022**: Attended ICSE'22 in Pittsburgh.
+- **December 2021**: Accepted a summer 2022 internship offer from Amazon AWS as an applied scientist intern.
+- **December 2021**: Received the "Outstanding Research Poster Award" at the CS Fall Symposium student poster competition.
+- **December 2021**: Organized the [CS department research symposium](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium), [News](https://engineering.virginia.edu/computer-science-graduate-student-group-research-symposium?fbclid=IwAR2r1lHuVFwesevFrsCqezybDSU_u3Fc-vWky6TYbQ4Jepo-gfibiRzgbMc), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
+- **September 2021**: Passed the Ph.D. Qualifying Exam with flying colors.
+- **April 2021**: Attended the CRA-W Grad Cohort Workshop 2021 (virtual due to COVID-19).
+- **February 2021**: Started working as a TA for graduate compilers (CS 6620) by Prof. Matt Dwyer.
+- **August 2019**: Started Ph.D. in CS at the University of Virginia.
+- **May 2019**: Left my job at Reve Systems.
+- **March 2016**: Started working as a software development engineer at Reve Systems.
+- **March 2016**: Graduated from BUET.
+
+
 
 
