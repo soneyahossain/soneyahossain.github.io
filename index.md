@@ -45,7 +45,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 - **October 2023**: Honored to receive the [Student Choice Research Award](https://engineering.virginia.edu/2023-cs-research-symposium-highlights) at the CS Department Fall Research Symposium 2023, University of Virginia.
 - **July 2023**: Our paper [Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) is accepted at the FSE'23 research track.
 - **June 2023**: Started working at the AWS Code Guru team in Santa Clara, CA.
-- **May 2023**: Presented my paper at ICSE'23 in Melbourne, Australia.
+- **May 2023**: Presented our [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xDDfwB8AAAAJ&citation_for_view=xDDfwB8AAAAJ:IjCSPb-OGe4C) at ICSE'23 in Melbourne, Australia.
 - **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023).
 - **April 2023**: Attended the CRA Grad Cohort in San Francisco, CA.
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
