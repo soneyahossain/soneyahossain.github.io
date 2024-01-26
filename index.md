@@ -40,7 +40,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 
 ### News
 
-* December, 2023 --- My paper "Ensuring Critical Properties of Test Oracles for Effective Bug Detection" is accepted at ICSE'24 Doctoral Symposium!!!
+* December, 2023 --- My paper [Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection) is accepted at ICSE'24 Doctoral Symposium!!!
 * December, 2023 --- Attended and presented our [paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616265) at FSE'23 (Dec 3-9), in San Francisco, CA.
 * October, 2023 --- Honored to receive the [Student Choice Research Award](https://engineering.virginia.edu/2023-cs-research-symposium-highlights) at the CS Department Fall Research Symposium 2023, University of Virginia!!!
 * July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track!!! 
