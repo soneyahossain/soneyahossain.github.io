@@ -40,7 +40,7 @@ I am a 4th-year PhD candidate in Computer Science at the University of Virginia 
 
 ### News
 
-* December, 2023 --- My paper "Ensuring Critical Properties of Test Oracles for Effective Bug Detection" is accepted at ICSE'23 Doctoral Symposium!!!
+* December, 2023 --- My paper "Ensuring Critical Properties of Test Oracles for Effective Bug Detection" is accepted at ICSE'24 Doctoral Symposium!!!
 * October, 2023 --- Honored to receive the "Student Choice Research Award" at the CS Department Fall Research Symposium 2023, University of Virginia!!!
 * July, 2023 --- Our paper "Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned" is accepted at FSE'23 research track!!! 
 * June, 2023 --- Started working at Amazon AWS Code Guru team in Santa Clara, CA
