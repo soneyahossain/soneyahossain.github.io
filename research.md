@@ -2,6 +2,13 @@
 layout: page
 title: Projects
 ---
+## Leveraging Large Language Models for Automated Test Oracle Generation
+
+Test oracles serve as indispensable assets in software testing, facilitating efficient bug detection. Despite initial promises, neural-based methods for automated test oracle generation often yield a high number of false positives and weaker test oracles. While Large Language Models (LLMs) have showcased remarkable effectiveness across various software engineering tasks, such as code generation, test case creation, and bug fixing, there remains a conspicuous lack of extensive studies exploring their efficacy in test oracle generation. Addressing the pressing question of whether LLMs can mitigate the challenges in effective oracle generation is both compelling and demands thorough investigation.
+
+To this end, we introduce a novel method for generating test oracles leveraging LLMs. Our findings unveil that our approach can yield up to 4.9 times more accurate oracles than the previous state-of-the-art (SOTA). Furthermore, our research demonstrates that our method is adept at generating significantly diverse test oracles, capable of identifying ten times more unique bugs compared to the previous SOTA neural-based approach.
+
+Details: Coming soon!
 
 ## Leveraging Large Language Models for Automated Program Repair
 
@@ -45,7 +52,7 @@ Details: [\[paper (FSE'23)\]](https://dl.acm.org/doi/abs/10.1145/3611643.3616265
 
 Code coverage is used by millions of developers in thousands of organizations on a daily basis. Despite this popularity, code coverage has well-understood limitations demonstrated by the software engineering research community, such as not providing enough insight into test oracles' quality. In this research, we compute *coverage gaps*, a metric to detect the undertested program structures by analyzing the existing test oracles. We then propose a lightweight intra-procedural flow-insensitive static analysis technique that uses the system under test (SUT) and the coverage gaps as inputs to recommend actionable feedback to the developers to complement the test suite with additional test oracles, which demonstrated to improve the fault-detection effectiveness of the test suite.
 
-Details: [\[paper (ICSE'23)\]](https://doi.org/10.6084/m9.figshare.21932058.v5) [\[artifact\]](https://github.com/soneyahossain/hcc-gap-recommender/tree/main) [\[talk\]]({{'/'|relative_url}}assets/presentations/ICSE-2023-talk.pdf) [\[poster\]]({{'/'|relative_url}}assets/presentations/ICSE2023_poster_soneya.pdf)
+Details: [\[paper (ICSE'23)\]](https://ieeexplore.ieee.org/document/10172745) [\[artifact\]](https://github.com/soneyahossain/hcc-gap-recommender/tree/main) [\[talk\]]({{'/'|relative_url}}assets/presentations/ICSE-2023-talk.pdf) [\[poster\]]({{'/'|relative_url}}assets/presentations/ICSE2023_poster_soneya.pdf)
 
 
 ## MuSlicer: A Language Agnostic Dynamic Program Slicing Tool
