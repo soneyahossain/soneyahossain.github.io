@@ -21,13 +21,15 @@ title: Publications
 
 * **Ensuring Critical Properties of Test Oracles for Effective Bug Detection** <br />
   *Soneya Binta Hossain* <br />
-  [Proceedings of the 46th International Conference on Software Engineering (ICSE '23)](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)<br />
+  [Proceedings of the 46th International Conference on Software Engineering (ICSE, Doctoral Symposium 2024)](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)<br />
+
+
+* **A Deep Dive into Large Language Models for Automated Bug Localization and Repair** <br />
+  *Soneya Binta Hossain*, Nan Jiang, Qiang Zhou, Xiaopeng LI, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, Omer Tripp <br />
+  [FSE 2024 - Research Paper](https://2024.esec-fse.org/details/fse-2024-research-papers/17/A-Deep-Dive-into-Large-Language-Models-for-Bug-Fixing)
 
 
 ### Conference Papers (In preparation)
-
-* **Leveraging Large Language Models for Automated Program Repair** <br />
-  *Soneya Binta Hossain*, Amazon Web Services [submitted] <br />
 
 * **Predictive Mutation Testing via Graph Neural Networks** <br />
   Will Leeson, *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
