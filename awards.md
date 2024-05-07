@@ -2,6 +2,7 @@
 layout: page
 title: Awards
 ---
+* Finalist, Physical Sciences and Engineering Category, UVA Research Computing Exhibition 2024
 * Received [Student Choice Research Award](https://engineering.virginia.edu/2023-cs-research-symposium-highlights) at the CS Research Symposium 2023!!!
 * Received [John A. Stankovic Outstanding Graduate Research Award (2022-2-23)](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023)
 * Travel Grant by Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
