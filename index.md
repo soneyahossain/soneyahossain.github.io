@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a 5th-year PhD candidate in Computer Science at the University of Virginia (UVa) and a proud member of the UVa [LESS](https://less-lab-uva.github.io/) lab. My PhD work is advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I also collaborate closely with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). My research interests include Software Testing and Verification for safety-critical systems, Automated Bug Repair, and the application of AI/ML techniques in Software Engineering. Prior to my PhD studies, I earned my undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com).
+I am a 5th-year PhD candidate in Computer Science at the University of Virginia (UVA) and a proud member of the UVA [LESS](https://less-lab-uva.github.io/) lab. My PhD work is advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I also collaborate closely with [Dr. Sebastian Elbaum](https://en.wikipedia.org/wiki/Sebastian_Elbaum). My research interests include Software Testing and Verification, Automated Bug Repair, and the application of AI/ML techniques in Software Engineering. Prior to my PhD studies, I earned my undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). Following this, I worked as a software development engineer at [REVE Systems](https://www.revesoft.com).
 
 [\[CV\]]({{'/'|relative_url}}assets/CV/CV.pdf)
 
@@ -32,14 +32,15 @@ I am a 5th-year PhD candidate in Computer Science at the University of Virginia 
 
 * Student Volunteer at FSE'23, Dec 3-9, San Francisco, CA
 * Student Mentor, University of Virginia <br />
-  <font size="4">Mentee: Nicki Choquette (CS, UVa), Kasra Lekan (CS, UVa), <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart (CS, UF)</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari (CpE, UVa)</a></font>
+  <font size="4">Mentee: Eric Weng (CS, UVA), Nicki Choquette (CS, UVA), Kasra Lekan (CS, UVA), <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart (CS, UF)</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari (CpE, UVA)</a></font>
 * Leadership Chair, [Computer Science Department Graduate Student Group](https://csgsg.org/), UVA (Jan'20 - Dec'22)
 * Social Chair, [Association of Bangladeshi Students at UVa](https://www.facebook.com/abs.atuva/) (fall'21-summer'22)
 
 
 
 ### News
-
+- **April 2024**: Honored to be selected one of the five finalist at UVA Research Computing Exhibition 2024!
+- **April 2024**: My paper [Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://arxiv.org/abs/2404.11595) is accepted at the FSE'24 Research Track.
 - **December 2023**: My paper [Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection) is accepted at the ICSE'24 Doctoral Symposium.
 - **December 2023**: Attended and presented our [paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616265) at FSE'23 (Dec 3-9) in San Francisco, CA.
 - **October 2023**: Honored to receive the [Student Choice Research Award](https://engineering.virginia.edu/2023-cs-research-symposium-highlights) at the CS Department Fall Research Symposium 2023, University of Virginia.
