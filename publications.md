@@ -31,8 +31,14 @@ title: Publications
 
 ### Conference Papers (In preparation)
 
+* **LLM-Based Method for Test Oracle Generation** <br />
+  *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
+
 * **Predictive Mutation Testing via Graph Neural Networks** <br />
   Will Leeson, *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
+
+* **LLM-Based Code Generation Through Self-Debugging and Explanation** <br />
+  Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, *Soneya Binta Hossain*, Baishakhi Ray, Varun Kumar, Xiaofei Ma [submitted] <br />
   
   
 ### Preprint
