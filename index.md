@@ -19,7 +19,7 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 ### News
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
-Effective Software Bug Detection" with flying colors! [More..](gallery.md)
+Effective Software Bug Detection" with flying colors! [Gallery..](gallery.md)
 - **April 2024**: Attended ICSE '25 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium.
 - **April 2024**: Honored to be selected as one of the five finalists at the UVA Research Computing Exhibition 2024!
 - **April 2024**: My paper [Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://arxiv.org/abs/2404.11595) is accepted at the FSE'24 Research Track.
