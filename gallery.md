@@ -14,6 +14,6 @@ style="float: center;" />
 
 
 
-<img src="../assets/photo/proposal_2.jpg"
+<img src="../assets/photo/proposal_3.jpg"
 alt="proposal"
 style="float: center;" />
