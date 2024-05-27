@@ -17,28 +17,6 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 * B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology
 
 
-### Experience
-
-* Graduate Research Assistant, LESS Lab, UVA (2019-present) <br />
-  <font size = 4 > Advisor: Dr. Matthew Dwyer</font>
-* Applied Scientist Intern, Amazon Web Services (AWS) (Summer'22 and Summer'23)  <br />
-  <font size = 4 > Mentor: Qiang Zhou (Summer'23), Antonio Filieri (Summer'22), Willem Visser (Summer'22) </font>
-* Graduate Teaching Assistant, Department of CS, UVA <br />
-  <font size = 4 ><a href="https://matthewbdwyer.github.io/6620/" style="text-decoration: none">Graduate Compilers (CS 6620)</a>, <a href="https://matthewbdwyer.github.io/4620/" style="text-decoration: none">Undergraduate Compilers (CS 4620) </a></font>
-* Software Development Engineer, REVE Systems (R&D) (2016-2019)
-* Undergrad Research Assistant, BUET (2015-2016) <br />
-  <font size = 4 ><a href="https://cse.buet.ac.bd/faculty/facdetail.php?id=ashikurrahman" style="text-decoration: none">Advisor: Dr. A.K.M. Ashikur Rahman</a></font>
-  
-  
-### Service
-
-* Student Volunteer at FSE'23, Dec 3-9, San Francisco, CA
-* Student Mentor, University of Virginia <br />
-  <font size="4">Mentee: Eric Weng (CS, UVA), Nicki Choquette (CS, UVA), Kasra Lekan (CS, UVA), <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart (CS, UF)</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari (CpE, UVA)</a></font>
-* Leadership Chair, [Computer Science Department Graduate Student Group](https://csgsg.org/), UVA (Jan'20 - Dec'22)
-* Social Chair, [Association of Bangladeshi Students at UVa](https://www.facebook.com/abs.atuva/) (fall'21-summer'22)
-
-
 
 ### News
 - **April 2024**: Honored to be selected one of the five finalists at UVA Research Computing Exhibition 2024!
