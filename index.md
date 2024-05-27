@@ -18,6 +18,7 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 
 ### News
+- **May 2024**: Received my master's in CS from UVA with a CGPA of 4.0/4.0!
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection" with flying colors! [\[Gallery\]](gallery.md)
 - **April 2024**: Attended ICSE'24 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium.
