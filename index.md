@@ -21,7 +21,7 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 ### News
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection" with flying colors!
-- **April 2024**: Attended ICSE '25 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium
+- **April 2024**: Attended ICSE '25 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium.
 - **April 2024**: Honored to be selected as one of the five finalists at the UVA Research Computing Exhibition 2024!
 - **April 2024**: My paper [Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://arxiv.org/abs/2404.11595) is accepted at the FSE'24 Research Track.
 - **December 2023**: My paper [Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection) is accepted at the ICSE'24 Doctoral Symposium.
@@ -29,7 +29,7 @@ Effective Software Bug Detection" with flying colors!
 - **October 2023**: Honored to receive the [Student Choice Research Award](https://engineering.virginia.edu/2023-cs-research-symposium-highlights) at the CS Department Fall Research Symposium 2023, University of Virginia.
 - **July 2023**: Our paper [Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) is accepted at the FSE'23 research track.
 - **June 2023**: Started working at the AWS Code Guru team in Santa Clara, CA.
-- **May 2023**: Presented our [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xDDfwB8AAAAJ&citation_for_view=xDDfwB8AAAAJ:IjCSPb-OGe4C) at ICSE'23 in Melbourne, Australia.
+- **May 2023**: Presented our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) at ICSE'23 in Melbourne, Australia.
 - **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023).
 - **April 2023**: Attended the CRA Grad Cohort in San Francisco, CA.
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
