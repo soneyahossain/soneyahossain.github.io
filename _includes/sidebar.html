@@ -4,7 +4,7 @@
       <!-- This adds the picture on the sidebar -->
       {% if site.logo %}
         <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
-          <img src="{% include_cached smart-url url=site.logo %}" class="avatar" alt="{{ site.short_title | default:site.title }}" width="200" height="200" loading="lazy" />
+          <img src="{% include_cached smart-url url=site.logo %}" class="avatar" alt="{{ site.short_title | default:site.title }}" width="150" height="150" loading="lazy" />
         </a>
       {% endif %}
       <h1>
