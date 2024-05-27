@@ -17,7 +17,6 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 * B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology
 
 
-
 ### News
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection" with flying colors!
@@ -37,7 +36,6 @@ Effective Software Bug Detection" with flying colors!
 - **May 2022**: Started my summer'22 internship at the AWS Code Guru team in Seattle.
 - **May 2022**: Received the [CS Department Outstanding Graduate Service Award](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards).
 - **April 2022**: Attended ICSE'22 in Pittsburgh.
-- **December 2021**: Accepted a summer 2022 internship offer from Amazon Web Services (AWS) as an applied scientist intern.
 - **December 2021**: Received the [Outstanding Research Poster Award](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium) at the CS Fall Symposium student poster competition.
 - **December 2021**: Organized the [CS Department Research Symposium](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium), [News](https://engineering.virginia.edu/computer-science-graduate-student-group-research-symposium?fbclid=IwAR2r1lHuVFwesevFrsCqezybDSU_u3Fc-vWky6TYbQ4Jepo-gfibiRzgbMc), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
 - **September 2021**: Passed the Ph.D. Qualifying Exam with flying colors!
