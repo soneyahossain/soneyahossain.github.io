@@ -4,9 +4,6 @@ title: Service
 ---
 
 
-
-### Service
-
 * Student Volunteer at FSE'23, Dec 3-9, San Francisco, CA
 * Student Mentor, University of Virginia <br />
   <font size="4">Mentee: Eric Weng (CS, UVA), Nicki Choquette (CS, UVA), Kasra Lekan (CS, UVA), <a href="https://ashleybhart.com/resume/" style="text-decoration: none">Ashley Hart (CS, UF)</a>, <a href="https://www.linkedin.com/in/srikarchittari" style="text-decoration: none">Srikar Chittari (CpE, UVA)</a></font>

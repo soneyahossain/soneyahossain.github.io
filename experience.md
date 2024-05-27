@@ -3,8 +3,6 @@ layout: page
 title: Experience
 ---
 
-### Experience
-
 * Graduate Research Assistant, LESS Lab, UVA (2019-present) <br />
   <font size = 4 > Advisor: Dr. Matthew Dwyer</font>
 * Applied Scientist Intern, Amazon Web Services (AWS) (Summer'22 and Summer'23)  <br />
