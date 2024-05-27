@@ -30,11 +30,11 @@ Effective Software Bug Detection" with flying colors!
 - **July 2023**: Our paper [Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) is accepted at the FSE'23 research track.
 - **June 2023**: Started my summer'23 internship at the AWS Code Guru team in Santa Clara, CA.
 - **May 2023**: Presented our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) at ICSE'23 in Melbourne, Australia.
-- **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/cs-department-end-year-award-recipients-2022-2023).
+- **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/department/computer-science/blogs/cs-department-end-year-award-recipients-2022-2023).
 - **April 2023**: Attended the CRA Grad Cohort in San Francisco, CA.
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
-- **December 2022**: Our paper on [Measuring and Mitigating Gaps in Structural Testing](https://doi.org/10.6084/m9.figshare.21932058.v5) is accepted at the ICSE'23 technical track.
-- **May 2022**: Started my summer'22 internship at the Amazon AWS Code Guru team in Seattle.
+- **December 2022**: Our paper on [Measuring and Mitigating Gaps in Structural Testing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) is accepted at the ICSE'23 technical track.
+- **May 2022**: Started my summer'22 internship at the AWS Code Guru team in Seattle.
 - **May 2022**: Received the [CS Department Outstanding Graduate Service Award](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards).
 - **April 2022**: Attended ICSE'22 in Pittsburgh.
 - **December 2021**: Accepted a summer 2022 internship offer from Amazon Web Services (AWS) as an applied scientist intern.
