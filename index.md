@@ -3,11 +3,12 @@ layout: page
 title: About
 ---
 
-I am a 5th-year PhD candidate in CS at the University of Virginia (UVA), where I am advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I am a member of the UVA [LESS](https://less-lab-uva.github.io/) lab.  
+I am a 5th-year PhD candidate in Computer Science at the University of Virginia (UVA), where I am advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I am a member of the UVA [LESS](https://less-lab-uva.github.io/) lab.  
 
-My research interests lie in software testing, automated program repair, and the application of AI/ML in Software Engineering. I received my master's in CS from UVA and my undergraduate degree in CSE from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). 
+My research interests lie in software testing, automated program repair, and the application of AI/ML in Software Engineering. I received my master's in Computer Science from UVA and my undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://eee.buet.ac.bd/). 
 
-For more details, please fine my [\[CV\]]({{'/'|relative_url}}assets/CV/CV.pdf).
+For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
+
 
 ### Education
 
@@ -18,11 +19,11 @@ For more details, please fine my [\[CV\]]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 ### Experience
 
-* Graduate Research Assistant, LESS Lab, UVa (2019-present) <br />
+* Graduate Research Assistant, LESS Lab, UVA (2019-present) <br />
   <font size = 4 > Advisor: Dr. Matthew Dwyer</font>
-* Applied Scientist Intern, Amazon AWS (Summer'22 and Summer'23)  <br />
-  <font size = 4 > Mentor: Willem Visser (Summer'22), Antonio Filieri (Summer'22), Qiang Zhou (Summer'23) </font>
-* Graduate Teaching Assistant, Department of CS, UVa <br />
+* Applied Scientist Intern, Amazon Web Services (AWS) (Summer'22 and Summer'23)  <br />
+  <font size = 4 > Mentor: Qiang Zhou (Summer'23), Antonio Filieri (Summer'22), Willem Visser (Summer'22) </font>
+* Graduate Teaching Assistant, Department of CS, UVA <br />
   <font size = 4 ><a href="https://matthewbdwyer.github.io/6620/" style="text-decoration: none">Graduate Compilers (CS 6620)</a>, <a href="https://matthewbdwyer.github.io/4620/" style="text-decoration: none">Undergraduate Compilers (CS 4620) </a></font>
 * Software Development Engineer, REVE Systems (R&D) (2016-2019)
 * Undergrad Research Assistant, BUET (2015-2016) <br />
