@@ -13,6 +13,8 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 ### Education
 
 * Ph.D., Computer Science, University of Virginia
+  <font size = 4 > Thesis: Assessing and Improving Critical Properties of Test Oracles for
+Effective Software Bug Detection</font>
 * M.S., Computer Science, University of Virginia
 * B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology
 
