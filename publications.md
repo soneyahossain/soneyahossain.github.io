@@ -19,20 +19,22 @@ title: Publications
   [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) [\[talk\]]({{'/'|relative_url}}assets/presentations/FSE-2023-talk.pdf) [\[artifact\]](https://doi.org/10.6084/m9.figshare.21973091.v4)
 
 
-* **Ensuring Critical Properties of Test Oracles for Effective Bug Detection** <br />
+* **Ensuring Critical Properties of Test Oracles for Effective Bug Detection** <br/>
   *Soneya Binta Hossain* <br />
-  [Proceedings of the 46th International Conference on Software Engineering (ICSE, Doctoral Symposium 2024)](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)<br />
+  [Proceedings of the 46th International Conference on Software Engineering (ICSE, Doctoral Symposium 2024)](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)<br/>
+  [\[paper\]](https://dl.acm.org/doi/10.1145/3639478.3639791) [\[poster\]]({{'/'|relative_url}}assets/presentations/ICSE-DS-24-Soneya-A0-28.pdf)
 
 
 * **A Deep Dive into Large Language Models for Automated Bug Localization and Repair** <br />
   *Soneya Binta Hossain*, Nan Jiang, Qiang Zhou, Xiaopeng LI, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, Omer Tripp <br />
-  [FSE 2024 - Research Paper](https://2024.esec-fse.org/details/fse-2024-research-papers/17/A-Deep-Dive-into-Large-Language-Models-for-Bug-Fixing)
+  [ACM International Conference on the Foundations of Software Engineering (FSE 24)](https://2024.esec-fse.org/details/fse-2024-research-papers/17/A-Deep-Dive-into-Large-Language-Models-for-Automated-Bug-Localization-and-Repair)<br/>
+   [\[preprint\]](https://doi.org/10.48550/arXiv.2404.11595)
 
+* **TOGLL: Correct and Strong Test Oracle Generation with LLMs** <br />
+  *Soneya Binta Hossain*, Matthew Dwyer <br />
+   [\[preprint\]](https://doi.org/10.48550/arXiv.2405.03786)
 
 ### Conference Papers (In preparation)
-
-* **LLM-Based Method for Test Oracle Generation** <br />
-  *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
 
 * **Predictive Mutation Testing via Graph Neural Networks** <br />
   Will Leeson, *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
