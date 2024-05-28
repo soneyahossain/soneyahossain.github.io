@@ -12,12 +12,12 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 ### Education
 
-* Ph.D., Computer Science, University of Virginia  
+* Ph.D., Computer Science, University of Virginia <br />  
   <font size = 4 > Thesis: Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection</font>
-* M.S., Computer Science, University of Virginia  
+* M.S., Computer Science, University of Virginia <br />  
  <font size = 4 > Project: TOGLL: Correct and Strong Test Oracle Generation with LLMs</font>
-* B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology  
+* B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology <br />  
 <font size = 4 > Thesis: Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks</font>
 
 ### News
