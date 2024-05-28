@@ -24,7 +24,7 @@ Effective Software Bug Detection</font>
 - **May 2024**: Received my master's in CS from UVA with a CGPA of 4.0/4.0! [\[gallery\]](graduation.md)
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
-- **April 2024**: Attended ICSE'24 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium.
+- **April 2024**: Attended ICSE'24 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium [\[gallery\]](icse-24.md)
 - **April 2024**: Honored to be selected as one of the five finalists at UVA Research Computing Exhibition 2024!
 - **April 2024**: My paper [Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://arxiv.org/abs/2404.11595) is accepted at FSE'24 Research Track.
 - **December 2023**: My paper [Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://dl.acm.org/doi/10.1145/3639478.3639791) is accepted at the ICSE'24 Doctoral Symposium.
