@@ -22,7 +22,7 @@ title: Publications
 * **Ensuring Critical Properties of Test Oracles for Effective Bug Detection** <br/>
   *Soneya Binta Hossain* <br />
   [Proceedings of the 46th International Conference on Software Engineering (ICSE, Doctoral Symposium 2024)](https://conf.researchr.org/details/icse-2024/icse-2024-doctoral-symposium/11/Ensuring-Critical-Properties-of-Test-Oracles-for-Effective-Bug-Detection)<br/>
-  [\[paper\]](https://dl.acm.org/doi/10.1145/3639478.3639791)
+  [\[paper\]](https://dl.acm.org/doi/10.1145/3639478.3639791) [\[poster\]]({{'/'|relative_url}}assets/presentations/ICSE-DS-24-Soneya-A0-28.pdf)
 
 
 * **A Deep Dive into Large Language Models for Automated Bug Localization and Repair** <br />
