@@ -6,7 +6,7 @@ title: Awards
 * Received [Student Choice Research Award](https://engineering.virginia.edu/department/computer-science/blogs/2023-cs-research-symposium-highlights) at the CS Research Symposium 2023!!!
 * Received [John A. Stankovic Outstanding Graduate Research Award (2022-2-23)](https://engineering.virginia.edu/department/computer-science/blogs/cs-department-end-year-award-recipients-2022-2023)
 * Travel Grant by Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
-* [Department of Computer Science Outstanding Service Award (2021-2022)](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards), 2022 <br />
+* Outstanding Graduate Service Award (2021-2022), CS, UVA [Link](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards)<br />
   <font size = 4 >For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) and organizing Research Symposium in 2020 (virtual) and 2021 (in person). </font>
 * [Outstanding research poster award!](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium), 2021
 * Travel Grant by Computing Research Association (CRA) to attend Grad Cohort, New Orleans, LA, 2020
