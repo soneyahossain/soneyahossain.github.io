@@ -16,9 +16,9 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
   <font size = 4 > Thesis: Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection</font>
 * M.S., Computer Science, University of Virginia <br />  
- <font size = 4 > Project: TOGLL: Correct and Strong Test Oracle Generation with LLMs</font>
+  <font size = 4 > Project: TOGLL: Correct and Strong Test Oracle Generation with LLMs</font>
 * B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology <br />  
-<font size = 4 > Thesis: Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks</font>
+  <font size = 4 > Thesis: Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks</font>
 
 ### News
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
