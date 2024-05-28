@@ -27,7 +27,8 @@ title: Publications
 
 * **A Deep Dive into Large Language Models for Automated Bug Localization and Repair** <br />
   *Soneya Binta Hossain*, Nan Jiang, Qiang Zhou, Xiaopeng LI, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, Omer Tripp <br />
-  [FSE 2024 - Research Paper](https://doi.org/10.48550/arXiv.2404.11595)
+  [FSE 2024 - Research Paper](https://2024.esec-fse.org/details/fse-2024-research-papers/17/A-Deep-Dive-into-Large-Language-Models-for-Automated-Bug-Localization-and-Repair)
+   [\[preprint\]](https://doi.org/10.48550/arXiv.2404.11595)
 
 
 ### Conference Papers (In preparation)
