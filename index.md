@@ -28,7 +28,7 @@ Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
 - **April 2024**: Honored to be selected as one of the five finalists at UVA Research Computing Exhibition 2024!
 - **April 2024**: My paper [Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://arxiv.org/abs/2404.11595) is accepted at FSE'24 Research Track.
 - **December 2023**: My paper [Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://dl.acm.org/doi/10.1145/3639478.3639791) is accepted at the ICSE'24 Doctoral Symposium.
-- **December 2023**: Attended and presented our [paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616265) at FSE'23 (Dec 3-9) in San Francisco, CA.
+- **December 2023**: Attended and presented our [paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616265) at FSE'23 (Dec 3-9) in San Francisco, CA [\[gallery\]](fse-23.md)
 - **October 2023**: Honored to receive [Student Choice Research Award](https://engineering.virginia.edu/department/computer-science/blogs/2023-cs-research-symposium-highlights) at CS Department Research Symposium 2023.
 - **July 2023**: Our paper [Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) is accepted at the FSE'23 research track.
 - **June 2023**: Started summer internship with AWS Code Guru team in Santa Clara, CA.
