@@ -30,20 +30,25 @@ title: Publications
   [ACM International Conference on the Foundations of Software Engineering (FSE 24)](https://2024.esec-fse.org/details/fse-2024-research-papers/17/A-Deep-Dive-into-Large-Language-Models-for-Automated-Bug-Localization-and-Repair)<br/>
    [\[preprint\]](https://doi.org/10.48550/arXiv.2404.11595)
 
-* **TOGLL: Correct and Strong Test Oracle Generation with LLMs** <br />
-  *Soneya Binta Hossain*, Matthew Dwyer <br />
-   [\[preprint\]](https://doi.org/10.48550/arXiv.2405.03786)
+
 
 ### Conference Papers (In preparation)
 
 * **Predictive Mutation Testing via Graph Neural Networks** <br />
   Will Leeson, *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
 
-* **LLM-Based Code Generation Through Self-Debugging and Explanation** <br />
-  Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, *Soneya Binta Hossain*, Baishakhi Ray, Varun Kumar, Xiaofei Ma [submitted] <br />
-  
+
   
 ### Preprint
+
+* **Training LLMs to Better Self-Debug and Explain Code** <br />
+  Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, *Soneya Binta Hossain*, Baishakhi Ray, Varun Kumar, Xiaofei Ma [submitted] <br />
+  [\[preprint\]](TODO)
+
+* **TOGLL: Correct and Strong Test Oracle Generation with LLMs** <br />
+  *Soneya Binta Hossain*, Matthew Dwyer <br />
+   [\[preprint\]](https://doi.org/10.48550/arXiv.2405.03786)
+
 * **Oracle-based Test Adequacy Metrics: A Survey** <br />
   *Soneya Binta Hossain*, Matthew Dwyer <br />
   [\[paper\]](https://arxiv.org/pdf/2212.06118.pdf)
