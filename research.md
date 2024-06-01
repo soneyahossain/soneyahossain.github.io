@@ -6,7 +6,7 @@ title: Projects
 
 ## Leveraging LLMs' Self-Debugging and Explanation Capability in Code Generation
 
-Despite impressive code generation abilities, Large Language Models (LLMs) struggle to consistently produce correct solutions on the first try. Our research proposes a framework to enhance LLMs' self-debugging by incorporating sequences of explanations and corrections for erroneous code. 
+Despite impressive code generation abilities, Large Language Models (LLMs) struggle to consistently produce correct solutions on the first try. This research proposes a framework to enhance LLMs' self-debugging by incorporating sequences of explanations and corrections for erroneous code. 
 
 This work proposed an automated pipeline to create a high-quality dataset for code explanations and refinements. This involves generating multiple explanation and refinement trajectories, verified through execution. Next, it performs supervised fine-tuning (SFT) and reinforcement learning (RL) with a unique reward system to improve expanation and refinement generation quality.
 
