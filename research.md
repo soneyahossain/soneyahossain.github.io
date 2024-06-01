@@ -4,6 +4,18 @@ title: Projects
 ---
 
 
+## Leveraging LLMs' Self-Debugging and Explanation Capability in Code Geenration
+
+Despite impressive code generation abilities, Large Language Models (LLMs) struggle to consistently produce correct solutions on the first try. Our research proposes a framework to enhance LLMs' self-debugging by incorporating sequences of explanations and corrections for erroneous code. 
+
+This work proposed an automated pipeline to create a high-quality dataset for code explanations and refinements. This involves generating multiple explanation and refinement trajectories, verified through execution. Next, it performs supervised fine-tuning (SFT) and reinforcement learning (RL) with a unique reward system to improve expanation and refinement generation quality.
+
+Results show SFT improves pass@1 by up to 15.92% and pass@10 by 9.30% across benchmarks, with RL providing an additional 3.54% and 2.55% improvement, respectively. Trained LLMs can iteratively refine code, enhancing their ability to produce correct solutions and useful explanations, thereby aiding developers in understanding and fixing code bugs.
+
+Details: [\[preprint\]](https://arxiv.org/pdf/2405.18649)
+
+
+
 ## Leveraging Large Language Models for Automated Test Oracle Generation
 
 Test oracles serve as indispensable assets in software testing, facilitating efficient bug detection. Despite initial promises, neural-based methods for automated test oracle generation often yield a high number of false positives and weaker test oracles. While Large Language Models (LLMs) have showcased remarkable effectiveness across various software engineering tasks, such as code generation, test case creation, and bug fixing, there remains a conspicuous lack of extensive studies exploring their efficacy in test oracle generation. Addressing the pressing question of whether LLMs can mitigate the challenges in effective oracle generation is both compelling and demands thorough investigation.
