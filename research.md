@@ -4,7 +4,7 @@ title: Projects
 ---
 
 
-## Leveraging LLMs' Self-Debugging and Explanation Capability in Code Geenration
+## Leveraging LLMs' Self-Debugging and Explanation Capability in Code Generation
 
 Despite impressive code generation abilities, Large Language Models (LLMs) struggle to consistently produce correct solutions on the first try. Our research proposes a framework to enhance LLMs' self-debugging by incorporating sequences of explanations and corrections for erroneous code. 
 
