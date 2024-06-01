@@ -40,7 +40,7 @@ Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
 - **May 2022**: Started summer internship with AWS Code Guru team in Seattle, WA.
 - **May 2022**: Received [CS Department Outstanding Graduate Service Award](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards).
 - **April 2022**: Attended ICSE'22 in Pittsburgh.
-- **December 2021**: Received [Outstanding Research Poster Award](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium) at CS Research Symposium.
+- **December 2021**: Received [Outstanding Research Poster Award](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) at CS Research Symposium.
 - **December 2021**: Organized [CS Department Research Symposium](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium), [News](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
 - **September 2021**: Passed the Ph.D. Qualifying Exam with flying colors!
 - **April 2021**: Attended the CRA-W Grad Cohort Workshop 2021 (virtual due to COVID-19).
