@@ -42,7 +42,7 @@ title: Publications
 ### Preprint
 
 * **Training LLMs to Better Self-Debug and Explain Code** <br />
-  Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, *Soneya Binta Hossain*, Baishakhi Ray, Varun Kumar, Xiaofei Ma [submitted] <br />
+  Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, *Soneya Binta Hossain*, Baishakhi Ray, Varun Kumar, Xiaofei Ma <br />
   [\[preprint\]](https://arxiv.org/pdf/2405.18649)
 
 * **TOGLL: Correct and Strong Test Oracle Generation with LLMs** <br />
