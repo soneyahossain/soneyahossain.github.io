@@ -2,13 +2,15 @@
 layout: page
 title: Projects
 ---
+
+
 ## Leveraging Large Language Models for Automated Test Oracle Generation
 
 Test oracles serve as indispensable assets in software testing, facilitating efficient bug detection. Despite initial promises, neural-based methods for automated test oracle generation often yield a high number of false positives and weaker test oracles. While Large Language Models (LLMs) have showcased remarkable effectiveness across various software engineering tasks, such as code generation, test case creation, and bug fixing, there remains a conspicuous lack of extensive studies exploring their efficacy in test oracle generation. Addressing the pressing question of whether LLMs can mitigate the challenges in effective oracle generation is both compelling and demands thorough investigation.
 
 To this end, we introduce a novel method for generating test oracles leveraging LLMs. Our findings unveil that our approach can yield up to 4.9 times more accurate oracles than the previous state-of-the-art (SOTA). Furthermore, our research demonstrates that our method is adept at generating significantly diverse test oracles, capable of identifying ten times more unique bugs compared to the previous SOTA neural-based approach.
 
-Details: Coming soon!
+Details: [\[preprint\]](https://doi.org/10.48550/arXiv.2405.03786)
 
 ## Leveraging Large Language Models for Automated Program Repair
 
@@ -20,7 +22,7 @@ style="float: right;" />
 
 This study explores the utility of Large Language Models (LLMs) in automated program repair (APR). Unlike prevailing deep learning-enabled APR methods, which typically address bug detection and resolution simultaneously, we argue for a distinct separation of these steps into multiple models. This approach facilitates enhanced integration of various types of contextual information and a flexible inclusion of inductive biases. Our proposed method outperforms existing approaches across various bug datasets, including Defects4J. Additionally, the paper explores numerous research questions, providing detailed discussions and answers, supported by thorough experimental analyses.
 
-Details: Coming soon!
+Details: [\[paper (FSE'24)\]](https://doi.org/10.48550/arXiv.2404.11595)
 
 ## Predictive Mutation Testing via Graph Transformer Network
 
