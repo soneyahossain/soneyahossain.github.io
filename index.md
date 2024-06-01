@@ -38,10 +38,10 @@ Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
 - **December 2022**: Our paper on [Measuring and Mitigating Gaps in Structural Testing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) is accepted at the ICSE'23 technical track.
 - **May 2022**: Started summer internship with AWS Code Guru team in Seattle, WA.
-- **May 2022**: Received [CS Department Outstanding Graduate Service Award](https://engineering.virginia.edu/2021-2022-cs-department-end-year-awards).
+- **May 2022**: Received [CS Department Outstanding Graduate Service Award](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards).
 - **April 2022**: Attended ICSE'22 in Pittsburgh.
 - **December 2021**: Received [Outstanding Research Poster Award](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium) at CS Research Symposium.
-- **December 2021**: Organized [CS Department Research Symposium](https://engineering.virginia.edu/events/2021-fall-cs-research-symposium), [News](https://engineering.virginia.edu/computer-science-graduate-student-group-research-symposium?fbclid=IwAR2r1lHuVFwesevFrsCqezybDSU_u3Fc-vWky6TYbQ4Jepo-gfibiRzgbMc), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
+- **December 2021**: Organized [CS Department Research Symposium](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium), [News](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
 - **September 2021**: Passed the Ph.D. Qualifying Exam with flying colors!
 - **April 2021**: Attended the CRA-W Grad Cohort Workshop 2021 (virtual due to COVID-19).
 - **February 2021**: Started working as a TA for graduate compilers (CS 6620) by Prof. Matt Dwyer.
