@@ -18,9 +18,9 @@ Details: [\[preprint\]](https://arxiv.org/pdf/2405.18649)
 
 ## Leveraging Large Language Models for Automated Test Oracle Generation
 
-Test oracles serve as indispensable assets in software testing, facilitating efficient bug detection. Despite initial promises, neural-based methods for automated test oracle generation often yield a high number of false positives and weaker test oracles. While Large Language Models (LLMs) have showcased remarkable effectiveness across various software engineering tasks, such as code generation, test case creation, and bug fixing, there remains a conspicuous lack of extensive studies exploring their efficacy in test oracle generation. Addressing the pressing question of whether LLMs can mitigate the challenges in effective oracle generation is both compelling and demands thorough investigation.
+Test oracles are essential in software testing for effective bug detection. Despite their potential, neural-based methods for automated test oracle generation often produce numerous false positives and weaker test oracles. While Large Language Models (LLMs) have shown remarkable success in various software engineering tasks—such as code generation, test case creation, and bug fixing—there is a notable lack of extensive studies on their effectiveness in test oracle generation. Addressing whether LLMs can overcome the challenges in oracle generation is both compelling and necessary.
 
-To this end, we introduce a novel method for generating test oracles leveraging LLMs. Our findings unveil that our approach can yield up to 4.9 times more accurate oracles than the previous state-of-the-art (SOTA). Furthermore, our research demonstrates that our method is adept at generating significantly diverse test oracles, capable of identifying ten times more unique bugs compared to the previous SOTA neural-based approach.
+This reseach introduces TOGLL, a novel method for test oracles generation with LLMs. Our findings reveal that TOGLL can yield up to 4.9 times more accurate oracles than the previous SOTA method. Furthermore, TOGLL generates significantly diverse test oracles, identifying ten times more unique bugs compared to the previous SOTA neural-based approach.
 
 Details: [\[preprint\]](https://doi.org/10.48550/arXiv.2405.03786)
 
