@@ -32,7 +32,7 @@ Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
 - **October 2023**: Honored to receive [Student Choice Research Award](https://engineering.virginia.edu/department/computer-science/blogs/2023-cs-research-symposium-highlights) at CS Department Research Symposium 2023.
 - **July 2023**: Our paper [Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3611643.3616265) is accepted at the FSE'23 research track.
 - **June 2023**: Started summer internship with AWS Code Guru team in Santa Clara, CA.
-- **May 2023**: Presented our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) at ICSE'23 in Melbourne, Australia.
+- **May 2023**: Presented our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) at ICSE'23 in Melbourne, Australia [\[gallery\]](ICSE-23.md)
 - **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/department/computer-science/blogs/cs-department-end-year-award-recipients-2022-2023).
 - **April 2023**: Attended CRA Grad Cohort in San Francisco, CA.
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
