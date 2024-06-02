@@ -10,7 +10,7 @@ title: Gallery
 
 <figure style="text-align: center;">
   <img src="../assets/photo/ICSE-23-2.jpg" alt="ICSE" style="max-width: 80%;" />
-  <figcaption style="font-style: italic;">Coutry wise submission at ICSE 2023</figcaption>
+  <figcaption style="font-style: italic;">Country wise submission at ICSE 2023</figcaption>
 </figure>
 
 
