@@ -34,7 +34,7 @@ Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
 - **June 2023**: Started summer internship with AWS Code Guru team in Santa Clara, CA.
 - **May 2023**: Presented our [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) at ICSE'23 in Melbourne, Australia [\[gallery\]](ICSE-23.md)
 - **May 2023**: Received the [John A. Stankovic Outstanding Graduate Research Award](https://engineering.virginia.edu/department/computer-science/blogs/cs-department-end-year-award-recipients-2022-2023) [\[gallery\]](award-23.md)
-- **April 2023**: Attended CRA Grad Cohort in San Francisco, CA [gallery\]](CRA-SFO.md)
+- **April 2023**: Attended CRA Grad Cohort in San Francisco, CA [\[gallery\]](CRA-SFO.md)
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
 - **December 2022**: Our paper on [Measuring and Mitigating Gaps in Structural Testing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) is accepted at the ICSE'23 technical track.
 - **May 2022**: Started summer internship with AWS Code Guru team in Seattle, WA.
