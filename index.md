@@ -38,7 +38,7 @@ Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
 - **February 2023**: Our research [artifact](https://github.com/soneyahossain/hcc-gap-recommender) is accepted at the [ICSE Artifact Evaluation Track](https://conf.researchr.org/details/icse-2023/icse-2023-artifact-evaluation/5/Artifact-Measuring-and-Mitigating-Gaps-in-Structural-Testing).
 - **December 2022**: Our paper on [Measuring and Mitigating Gaps in Structural Testing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10172745) is accepted at the ICSE'23 technical track.
 - **May 2022**: Started summer internship with AWS Code Guru team in Seattle, WA.
-- **May 2022**: Received [CS Department Outstanding Graduate Service Award](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) [gallery\]](service-award.md)
+- **May 2022**: Received [CS Department Outstanding Graduate Service Award](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) [\[gallery\]](service-award.md)
 - **April 2022**: Attended ICSE'22 in Pittsburgh.
 - **December 2021**: Received [Outstanding Research Poster Award](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) at CS Research Symposium.
 - **December 2021**: Organized [CS Department Research Symposium](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium), [News](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium), [Tweet](https://twitter.com/CS_UVA/status/1471529342912155650?s=20&t=YbVecueDVPOLsdDaw0sBfQ).
