@@ -20,6 +20,8 @@ Effective Software Bug Detection</font>
   <font size = 4 style="font-weight: bold;"> Thesis: Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks</font>
 
 ### News
+- **Sep 2024**: I will attend the SWE24 — the world's largest conference for women in engineering and technology—from October 23–26 in Chicago, IL.
+- **Sep 2024**: Received UVA's most prestigious endowed fellowship! This fellowship is awarded to outstanding doctoral students with an award of $12,000.
 - **May 2024**: Received my master's in CS from UVA with a CGPA of 4.0/4.0! [\[gallery\]](graduation.md)
 - **May 2024**:  Defended my PhD dissertation proposal, titled "Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection" with flying colors! [\[gallery\]](proposal.md)
