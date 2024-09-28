@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: 
 ---
 
 ## Research Awards
