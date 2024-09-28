@@ -15,7 +15,7 @@ title: Publications
 
 * TOGLL: Correct and Strong Test Oracle Generation with LLMs <br />
   **Soneya Binta Hossain**, Matthew Dwyer <br />
-  [roceedings of the 47th International Conference on Software Engineering (**ICSE’25**)]
+  [Proceedings of the 47th International Conference on Software Engineering (**ICSE’25**)]
   [\[paper\]](https://doi.org/10.48550/arXiv.2405.03786)
 
 * Measuring and Mitigating Gaps in Structural Testing <br />
