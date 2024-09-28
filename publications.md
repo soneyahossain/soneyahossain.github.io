@@ -3,7 +3,7 @@ layout: page
 title: Publications  
 ---
 
-Here is my [Google Scholar](https://scholar.google.com/citations?user=xDDfwB8AAAAJ&hl=en)
+### My [Google Scholar](https://scholar.google.com/citations?user=xDDfwB8AAAAJ&hl=en)
 
 ### Conference Papers (Peer-reviewed)
 
