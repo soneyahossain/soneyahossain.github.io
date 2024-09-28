@@ -15,7 +15,7 @@ title: ..
 ## Service Awards
 * **Outstanding Service Award**, CS Department, University of Virginia, 2022 [link](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) 
 
-  <font size="4"><b>For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) and organizing Research Symposium in 2020 (virtual) and 2021 (in person).</b></font>
+  <font size="4"><b>For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) for two years, organizing leadership events, social events, and acting as a bridge between the department and students. Organized Research Symposium twice in 2020 and 2021.</b></font>
 
 ## Travel Grants
 * Travel grant to attend the SWE24—the world’s largest conference for women in engineering and
