@@ -17,13 +17,14 @@ title: Service
 
 ## Teaching and Mentoring
 
-- **Graduate TA:** CS 4620 (Undergraduate Compilers) and CS 6620 (Graduate Compilers), UVA. Designed features for TIPC compiler, graded assignments, and provided student support.
-- **Student Mentor, University of Virginia:** Mentored 10+ students from various universities, focusing on research, graduate school preparation, and application development.
-  - <font size="4">Mentee: 
-  Raygan Taylor (DU), Javan Mendoza (UMBC),
-  Nicki Choquette (UVA), Kasra Lekan (UVA),
-  Ashley Hart (UCF),
-  Srikar Chittari (UVA), Eric Weng (UVA).
-  </font>
+- **Graduate TA:** CS 4620 (Undergraduate Compilers) and CS 6620 (Graduate Compilers), UVA.
+
+- **Student Mentor, University of Virginia:** Mentored 10+ students from various universities, focusing on research and graduate school preparation
+  - Mentee: 
+    - Raygan Taylor (DU), Javan Mendoza (UMBC),
+    - Nicki Choquette (UVA), Kasra Lekan (UVA),
+    - Ashley Hart (UCF),
+    - Srikar Chittari (UVA), Eric Weng (UVA)
+    
 - **BWCSE Mentor:** BWCSE (Bangladeshi Women in Computer Science and Engineering) is a platform to support Bangladeshi women in computer science and engineering. Currently, I am mentoring several 3rd and 4th year students from BUET to do researh and prepapre for graduate school.
 
