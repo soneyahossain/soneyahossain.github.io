@@ -18,10 +18,11 @@ title: Awards
   <font size="4"><b>For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) and organizing Research Symposium in 2020 (virtual) and 2021 (in person).</b></font>
 
 ## Travel Grants
-* Travel grant to attend SWE24 (Society of Women Engineers) conference in Chicago, IL, 2024.
-* Travel Grant from Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
-* Travel Grant from CRA to attend Grad Cohort, New Orleans, LA, 2020
-* Travel Grant from Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, 2015
+* Travel grant to attend the SWE24—the world’s largest conference for women in engineering and
+technology—from October 23–26 in Chicago, IL (2024).
+* Travel grant from Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA (2023).
+* Travel grant from CRA to attend Grad Cohort, New Orleans, LA (2020).
+* Travel Grant from Grace Hopper Celebration of Women in Computing (GHCI), to travel and present my research in Bangalore, India (2015).
 
 ## Undergraduate Academic Awards
 * **Top Ten Database Project Award**, Department of CSE, BUET, 2014
