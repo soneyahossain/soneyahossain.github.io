@@ -9,17 +9,14 @@ title: Publications
 
 * Training LLMs to Better Self-Debug and Explain Code <br />
   Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, **Soneya Binta Hossain**, Baishakhi Ray, Varun Kumar, Xiaofei Ma <br />
-  [Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS)]
+  [Proceedings of the 38th Conference on Neural Information Processing Systems (**NeurIPS**)]<br />
   [25% acceptance rate]<br />
   [\[paper\]](https://arxiv.org/pdf/2405.18649)
 
-
 * TOGLL: Correct and Strong Test Oracle Generation with LLMs <br />
   **Soneya Binta Hossain**, Matthew Dwyer <br />
-  [roceedings of the 47th International Conference on Software Engineering (ICSE’25)]
+  [roceedings of the 47th International Conference on Software Engineering (**ICSE’25**)]
   [\[paper\]](https://doi.org/10.48550/arXiv.2405.03786)
-
-
 
 * Measuring and Mitigating Gaps in Structural Testing <br />
   **Soneya Binta Hossain**, Matthew Dwyer, Sebastian Elbaum, Anh Nguyen-Tuong <br />
