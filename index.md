@@ -30,7 +30,7 @@ I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a me
 Effective Software Bug Detection* [\[gallery\]](proposal.md)
 - **April 2024**: Attended ICSE'24 in beautiful Lisbon, Portugal, and presented my paper at the doctoral symposium [\[gallery\]](icse-24.md)
 - **April 2024**: Honored to be selected as one of the five finalists at UVA Research Computing Exhibition 2024!
-- **April 2024**: My paper [A Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://arxiv.org/abs/2404.11595) is accepted at FSE'24 Research Track.
+- **April 2024**: My paper [A Deep Dive into Large Language Models for Automated Bug Localization and Repair](https://dl.acm.org/doi/abs/10.1145/36607735) is accepted at FSE'24 Research Track.
 - **December 2023**: My paper [Ensuring Critical Properties of Test Oracles for Effective Bug Detection](https://dl.acm.org/doi/10.1145/3639478.3639791) is accepted at the ICSE'24 Doctoral Symposium.
 - **December 2023**: Attended and presented our [Neural-Based Test Oracle Generation: A Large-Scale Evaluation
 and Lessons Learned](https://dl.acm.org/doi/pdf/10.1145/3611643.3616265) at FSE'23 (Dec 3-9) in San Francisco, CA [\[gallery\]](FSE-23.md)
