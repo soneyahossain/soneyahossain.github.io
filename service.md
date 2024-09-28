@@ -12,14 +12,14 @@ title: Service
   -  WE24 by the Society of Women Engineers, Chicago, IL (Oct 24–26, 2024)
   -  ESEC/FSE 2023, San Francisco, CA (Dec 3-9, 2023).
 - **Leadership Chair:** Computer Science Graduate Student Group (CSGSG), UVA (Jan'20 - Dec'22)
-- **Social Chair:** Association of Bangladeshi Students (ABS), UVA ((fall'21 - summer'22)
+- **Social Chair:** Association of Bangladeshi Students (ABS), UVA (Fall'21 - Summer'22)
 
 
 ## Teaching and Mentoring
 
 - **Graduate TA:** CS 4620 (Undergraduate Compilers) and CS 6620 (Graduate Compilers), UVA.
 
-- **Student Mentor, University of Virginia:** Mentored 10+ students from various universities, focusing on research and graduate school preparation
+- **Student Mentor, University of Virginia:** Mentored undergrad students from five different universities in the US and Bangladesh, focusing on research and graduate school preparation
   - Mentee: 
     - Raygan Taylor (DU), Javan Mendoza (UMBC),
     - Nicki Choquette (UVA), Kasra Lekan (UVA),
