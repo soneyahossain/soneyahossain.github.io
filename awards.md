@@ -14,14 +14,14 @@ title: Awards
 
 ## Service Awards
 * **Outstanding Service Award**, CS Department, University of Virginia, 2022 [link](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) 
- 
+
   <font size="4"><b>For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) and organizing Research Symposium in 2020 (virtual) and 2021 (in person).</b></font>
 
 ## Travel Grants
-* Travel grant to attend SWE24 (Society of Women Engineers) conference in Chicago, IL, October 2024.
+* Travel grant to attend SWE24 (Society of Women Engineers) conference in Chicago, IL, 2024.
 * Travel Grant from Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
 * Travel Grant from CRA to attend Grad Cohort, New Orleans, LA, 2020
-* Travel Grant from Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015
+* Travel Grant from Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, 2015
 
 ## Undergraduate Academic Awards
 * **Top Ten Database Project Award**, Department of CSE, BUET, 2014
