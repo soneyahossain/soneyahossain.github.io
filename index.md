@@ -5,10 +5,7 @@ title: About
 
 ### Hello!
 
-I am a final year PhD candidate in Computer Science at the University of Virginia (UVA). I am a member of the UVA [LESS](https://less-lab-uva.github.io/) lab and advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/)
-My research interests lie in software testing, automated program repair, and the application of AI/ML in Software Engineering. I received my master's in Computer Science from UVA and my undergraduate degree in Computer Science and Engineering from [BUET](https://eee.buet.ac.bd/). 
-
-For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
+I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a member of the UVA [LESS](https://less-lab-uva.github.io/) lab, supervised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). My research interests lie at the intersection of Software Engineering and Machine Learning. I leverage program analysis and AI/ML techniques to enhance the cost-effectiveness of various software engineering tasks, including testing, debugging, and program repair. For more details, please see my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 
 ### Education
