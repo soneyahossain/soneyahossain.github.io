@@ -18,9 +18,9 @@ title: Awards
 
 ## Travel Grants
 * Travel grant to attend SWE24 (Society of Women Engineers) conference in Chicago, IL, October 2024.
-* Travel Grant by Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
-* Travel Grant by CRA to attend Grad Cohort, New Orleans, LA, 2020
-* Travel Grant by Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015
+* Travel Grant from Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA, 2023
+* Travel Grant from CRA to attend Grad Cohort, New Orleans, LA, 2020
+* Travel Grant from Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015
 
 ## Undergraduate Academic Awards
 * **Top Ten Database Project Award**, Department of CSE, BUET, 2014
