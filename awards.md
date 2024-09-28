@@ -7,7 +7,7 @@ title: Awards
 * **Copenhaver Charitable Trust Bicentennial Fellow** by the UVA School of Engineering & Applied Science for the 2024–2025 academic year, awarded $12,000.
 * **Finalist**, Physical Sciences and Engineering Category, UVA Research Computing Exhibition 2024 (showcasing research using UVA's high-performance computing resources, Rivanna)
 * **John A. Stankovic Outstanding Graduate Research Award** (2022–2023), CS, UVA [link](https://engineering.virginia.edu/department/computer-science/blogs/cs-department-end-year-award-recipients-2022-2023)
-* **Best Research Poster Award**, 2023 CS Research Symposium (Student Choice) [link](https://engineering.virginia.edu/department/computer-science/blogs/2023-cs-research-symposium-highlights)
+* **Student Choice Best Research Award**, 2023 CS Research Symposium [link](https://engineering.virginia.edu/department/computer-science/blogs/2023-cs-research-symposium-highlights)
 * **Best Research Poster Award**, 2021 CS Research Symposium [link](https://uvaeng.prod.acquia-sites.com/events/2021-fall-cs-research-symposium)
 * **PhD Fellowship**, Department of Computer Science, University of Virginia, 2019
 * **Outstanding Undergraduate Thesis Award**, Department of CSE, BUET, 2016
