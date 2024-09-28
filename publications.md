@@ -14,6 +14,12 @@ title: Publications
   [\[paper\]](https://arxiv.org/pdf/2405.18649)
 
 
+* TOGLL: Correct and Strong Test Oracle Generation with LLMs <br />
+  **Soneya Binta Hossain**, Matthew Dwyer <br />
+  [roceedings of the 47th International Conference on Software Engineering (ICSE’25)]
+  [\[paper\]](https://doi.org/10.48550/arXiv.2405.03786)
+
+
 
 * Measuring and Mitigating Gaps in Structural Testing <br />
   **Soneya Binta Hossain**, Matthew Dwyer, Sebastian Elbaum, Anh Nguyen-Tuong <br />
@@ -40,20 +46,16 @@ title: Publications
    [\[preprint\]](https://doi.org/10.48550/arXiv.2404.11595)
 
 
-
 ### Conference Papers (In preparation)
 
-* **Predictive Mutation Testing via Graph Neural Networks** <br />
-  Will Leeson, *Soneya Binta Hossain*, Matthew Dwyer [submitted] <br />
+* Doc2Oracle: Investigating the Effect of Javadoc Comments on Test Oracle Generation <br />
+  **Soneya Binta Hossain**, Raygan Taylor, Matthew Dwyer [submitted] <br />
 
+* Predictive Mutation Testing via Graph Neural Networks <br />
+  Will Leeson, **Soneya Binta Hossain**, Matthew Dwyer [submitted] <br />
 
 
 ### Preprint
-
-
-* **TOGLL: Correct and Strong Test Oracle Generation with LLMs** <br />
-  *Soneya Binta Hossain*, Matthew Dwyer <br />
-   [\[preprint\]](https://doi.org/10.48550/arXiv.2405.03786)
 
 * **Oracle-based Test Adequacy Metrics: A Survey** <br />
   *Soneya Binta Hossain*, Matthew Dwyer <br />
