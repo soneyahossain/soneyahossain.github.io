@@ -13,7 +13,8 @@ title: Awards
 * **Outstanding Undergraduate Thesis Award**, Department of CSE, BUET, 2016
 
 ## Service Awards
-* **Outstanding Service Award**, CS Department, University of Virginia, 2022 [link](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards)  
+* **Outstanding Service Award**, CS Department, University of Virginia, 2022 [link](https://uvaeng.prod.acquia-sites.com/2021-2022-cs-department-end-year-awards) 
+ 
   <font size="4"><b>For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) and organizing Research Symposium in 2020 (virtual) and 2021 (in person).</b></font>
 
 ## Travel Grants
