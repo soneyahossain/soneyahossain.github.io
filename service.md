@@ -5,7 +5,7 @@ title: Service
 
 ## Service
 
-- **Program Committee::**
+- **Program Committee:**
   -   ACM Transactions on Software Engineering and Methodology (TOSEM).
   -   IEEE International Conference on Software Testing, Verification and Validation (ICST) 2024.
 - **Student Volunteer:**
