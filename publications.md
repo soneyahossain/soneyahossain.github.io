@@ -3,12 +3,13 @@ layout: page
 title: Publications  
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=xDDfwB8AAAAJ&hl=en)
+
 ### Conference Papers (Peer-reviewed)
 
 1. **Training LLMs to Better Self-Debug and Explain Code**  
    *Nan Jiang, Xiaopeng Li, Shiqi Wang, Qiang Zhou, **Soneya Binta Hossain**, Baishakhi Ray, Varun Kumar, Xiaofei Ma*  
-   Proceedings of the 38th Conference on Neural Information Processing Systems (**NeurIPS**)  
-   - Acceptance Rate: 25%  
+   Proceedings of the 38th Conference on Neural Information Processing Systems (**NeurIPS**)  [Acceptance Rate: 25%]  
    - [Paper](https://arxiv.org/pdf/2405.18649)
 
 2. **TOGLL: Correct and Strong Test Oracle Generation with LLMs**  
@@ -18,8 +19,7 @@ title: Publications
 
 3. **Measuring and Mitigating Gaps in Structural Testing**  
    ***Soneya Binta Hossain**, Matthew Dwyer, Sebastian Elbaum, Anh Nguyen-Tuong*  
-   Proceedings of the 45th International Conference on Software Engineering (**ICSE 2023**)  
-   - Acceptance Rate: 26%  
+   Proceedings of the 45th International Conference on Software Engineering (**ICSE 2023**) [Acceptance Rate: 26%]  
    - [Paper](https://conf.researchr.org/details/icse-2023/icse-2023-technical-track/131/Measuring-and-Mitigating-Gaps-in-Structural-Testing)  
    - [Artifact](https://github.com/soneyahossain/hcc-gap-recommender/tree/main)  
    - [Talk](assets/presentations/ICSE-2023-talk.pdf)  
@@ -27,8 +27,7 @@ title: Publications
 
 4. **Neural-Based Test Oracle Generation: A Large-scale Evaluation and Lessons Learned**  
    ***Soneya Binta Hossain**, Antonio Filieri, Matthew Dwyer, Sebastian Elbaum, Willem Visser*  
-   Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE 2023**)  
-   - Acceptance Rate: 21%  
+   Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE 2023**  [Acceptance Rate: 21%]  
    - [Paper](https://dl.acm.org/doi/abs/10.1145/3611643.3616265)  
    - [Talk](assets/presentations/FSE-2023-talk.pdf)  
    - [Artifact](https://doi.org/10.6084/m9.figshare.21973091.v4)  
@@ -50,11 +49,9 @@ title: Publications
 
 1. **Doc2Oracle: Investigating the Effect of Javadoc Comments on Test Oracle Generation**  
    ***Soneya Binta Hossain**, Raygan Taylor, Matthew Dwyer*  
-   - Status: Submitted  
 
 2. **Predictive Mutation Testing via Graph Neural Networks**  
    *Will Leeson, **Soneya Binta Hossain**, Matthew Dwyer*  
-   - Status: Submitted  
 
 ---
 
