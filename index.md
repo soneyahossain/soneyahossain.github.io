@@ -13,13 +13,17 @@ For more details, please find my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 ### Education
 
-* Ph.D., Computer Science, University of Virginia <br />  
-  <font size = 4 style="font-weight: bold;" > Thesis: Assessing and Improving Critical Properties of Test Oracles for
-Effective Software Bug Detection</font>
-* M.S., Computer Science, University of Virginia <br />  
-  <font size = 4 style="font-weight: bold;"> Project: TOGLL: Correct and Strong Test Oracle Generation with LLMs</font>
-* B.S., Computer Science and Engineering, Bangladesh University of Engineering and Technology <br />  
-  <font size = 4 style="font-weight: bold;"> Thesis: Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks</font>
+- **Ph.D., Computer Science,** LESS Lab, University of Virginia  
+  Advisor: Matthew Dwyer  
+  Committee: Sebastian Elbaum, Yangfeng Ji, Matthew Bolton, Antonio Filieri  
+  Thesis: *Assessing and Improving Critical Properties of Test Oracles for Effective Software Bug Detection.*
+
+- **Master of Computer Science (MCS),** University of Virginia  
+  Project: *TOGLL: Correct and Strong Test Oracle Generation with LLMs.*
+
+- **B.Sc., Computer Science and Engineering,** Bangladesh University of Engineering and Technology (BUET)  
+  Thesis: *Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks.*
+
 
 ### News
 - **Sep 2024**: Received travel grant to attend the SWE24 — the world's largest conference for women in engineering and technology—from October 23–26 in Chicago, IL.
