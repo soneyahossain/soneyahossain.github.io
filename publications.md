@@ -50,7 +50,7 @@ title: Publications
 ### Conference Papers (In Submission)
 
 1. **Doc2Oracle: Investigating the Effect of Javadoc Comments on Test Oracle Generation**  
-   ***Soneya Binta Hossain**, Raygan Taylor, Matthew Dwyer  
+   **Soneya Binta Hossain**, Raygan Taylor, Matthew Dwyer  
 
 2. **Predictive Mutation Testing via Graph Neural Networks**  
    Will Leeson, **Soneya Binta Hossain**, Matthew Dwyer  
