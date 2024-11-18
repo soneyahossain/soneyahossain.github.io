@@ -23,6 +23,7 @@ I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a me
 
 
 ### News
+- **Nov 2024**: My paper [TOGLL: Correct and Strong Test Oracle Generation with LLMs](https://doi.org/10.48550/arXiv.2405.03786) is accepted at ICSE'25 Research Track.
 - **Sep 2024**: Received travel grant to attend the SWE24 — the world's largest conference for women in engineering and technology—from October 23–26 in Chicago, IL.
 - **Sep 2024**: Received UVA's most prestigious endowed fellowship! This fellowship is awarded to outstanding doctoral students with an award of $12,000.
 - **May 2024**: Received Master of Computer Science (MCS) from UVA with a CGPA of 4.0/4.0! [\[gallery\]](graduation.md)
