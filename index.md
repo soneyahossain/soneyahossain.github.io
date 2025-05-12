@@ -5,11 +5,12 @@ title: About
 
 ### Hello!
 
-I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a member of the UVA [LESS](https://less-lab-uva.github.io/) lab, supervised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). My research interests lie at the intersection of Software Engineering and Machine Learning. I leverage program analysis and AI/ML techniques to enhance the cost-effectiveness of various software engineering tasks, including testing, debugging, and program repair. For more details, please see my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
+I am a final-year Ph.D. candidate at the University of Virginia (UVA), where I am a member of the [LESS](https://less-lab-uva.github.io/) lab, advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). My research focuses on using program analysis and AI/ML techniques to automate and improve the cost-effectiveness of various software engineering tasks, including testing, debugging, and program repair. You can find my CV [here]({{'/'|relative_url}}assets/CV/CV.pdf).
 
-<p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
+<span style="color:red">
 🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025!
-</p>
+</span>
+
 
 
 ### Education
@@ -29,6 +30,7 @@ I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a me
 
 
 ### News
+- **April 2025**: My paper [Doc2Oracle: Investigating the Impact of Javadoc Comments on Test Oracle Generation](https://arxiv.org/abs/2412.09360) is accepted at FSE'25 Research Track.
 - **Nov 2024**: My paper [TOGLL: Correct and Strong Test Oracle Generation with LLMs](https://doi.org/10.48550/arXiv.2405.03786) is accepted at ICSE'25 Research Track.
 - **Sep 2024**: Received travel grant to attend the SWE24 — the world's largest conference for women in engineering and technology—from October 23–26 in Chicago, IL.
 - **Sep 2024**: Received UVA's most prestigious endowed fellowship! This fellowship is awarded to outstanding doctoral students with an award of $12,000.
