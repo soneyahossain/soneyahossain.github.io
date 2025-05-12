@@ -7,6 +7,10 @@ title: About
 
 I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a member of the UVA [LESS](https://less-lab-uva.github.io/) lab, supervised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). My research interests lie at the intersection of Software Engineering and Machine Learning. I leverage program analysis and AI/ML techniques to enhance the cost-effectiveness of various software engineering tasks, including testing, debugging, and program repair. For more details, please see my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
+<p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
+🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025!
+</p>
+
 
 ### Education
 
@@ -20,6 +24,8 @@ I am a final-year Ph.D. candidate at the University of Virginia (UVA). I am a me
 
 - **B.Sc., Computer Science and Engineering,** Bangladesh University of Engineering and Technology (BUET)  
   Thesis: *Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks.*
+
+
 
 
 ### News
