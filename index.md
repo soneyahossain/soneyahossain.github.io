@@ -10,7 +10,7 @@ I am a final-year Ph.D. candidate at the University of Virginia (UVA), where I a
 [CV]({{'/'|relative_url}}assets/CV/CV.pdf)
 
 <p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
-🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025!
+🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025! I’m looking to hire 2–3 fully funded PhD students in the area of AI for Software Engineering. If you're interested, feel free to reach out to me at sh7hv@virginia.edu
 </p>
 
 
@@ -32,6 +32,7 @@ I am a final-year Ph.D. candidate at the University of Virginia (UVA), where I a
 
 
 ### News
+- **April 25, 2025**: I successfully defended my PhD and officially became Dr. Soneya Binta Hossain!
 - **April 2025**: My paper [Doc2Oracle: Investigating the Impact of Javadoc Comments on Test Oracle Generation](https://arxiv.org/abs/2412.09360) is accepted at FSE'25 Research Track.
 - **Nov 2024**: My paper [TOGLL: Correct and Strong Test Oracle Generation with LLMs](https://doi.org/10.48550/arXiv.2405.03786) is accepted at ICSE'25 Research Track.
 - **Sep 2024**: Received travel grant to attend the SWE24 — the world's largest conference for women in engineering and technology—from October 23–26 in Chicago, IL.
