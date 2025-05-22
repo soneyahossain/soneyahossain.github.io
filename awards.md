@@ -18,6 +18,7 @@ title: Awards
   <font size="4"><b>For serving as the leadership chair of the Computer Science Graduate Student Group (CSGSG) for two years, organizing leadership events, social events, and acting as a bridge between the department and students. Organized Research Symposium twice in 2020 and 2021.</b></font>
 
 ## Travel Grants
+* Travel grant to attend the conferences and events sponsored by ACM SIGSOFT (FSE'25 in Trondheim, Norway) 
 * Travel grant to attend the SWE24—the world’s largest conference for women in engineering and
 technology—from October 23–26 in Chicago, IL (2024).
 * Travel grant from Computing Research Association (CRA) to attend Grad Cohort, San Francisco, CA (2023).
