@@ -15,15 +15,15 @@ I recently earned my Ph.D. in Computer Science from the University of Virginia, 
 
 ### Education
 
-- **Ph.D., Computer Science,** LESS Lab, University of Virginia  
+- **Ph.D. in Computer Science**, University of Virginia  
   Advisor: Matthew Dwyer  
   Committee: Sebastian Elbaum, Yangfeng Ji, Matthew Bolton, Antonio Filieri  
   Thesis: *Assessing and Improving Critical Properties of Test Oracles for Effective Software Bug Detection.*
 
-- **Master of Computer Science (MCS),** University of Virginia  
+- **Master of Computer Science (MCS)**, University of Virginia  
   Project: *TOGLL: Correct and Strong Test Oracle Generation with LLMs.*
 
-- **B.Sc., Computer Science and Engineering,** Bangladesh University of Engineering and Technology (BUET)  
+- **B.Sc. in Computer Science and Engineering**, Bangladesh University of Engineering and Technology (BUET)  
   Thesis: *Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks.*
 
 
