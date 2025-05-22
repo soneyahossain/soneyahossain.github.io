@@ -8,7 +8,7 @@ title: About
 I am a final-year Ph.D. candidate at the University of Virginia (UVA), where I am a member of the [LESS](https://less-lab-uva.github.io/) lab, advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). My research leverages program analysis and AI/ML techniques to automate and improve effectiveness of various software engineering tasks, including testing, debugging, and program repair. More details on my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 <p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
-🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025! I’m looking to hire 2–3 fully funded PhD students in the area of AI for Software Engineering. If you're interested, feel free to reach out to me at sh7hv@virginia.edu
+🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025! I’m looking to hire 2–3 fully funded PhD students in the area of AI for Software Engineering. *If you're interested, feel free to read some of my recent papers and reach out with a couple of new ideas or extensions you'd be excited to work on.*
 </p>
 
 
