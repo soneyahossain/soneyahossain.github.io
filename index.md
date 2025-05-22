@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-### Hello!
+<p style="color:#ff6600; font-weight:bold; font-size:1.1em;">I am an incoming Assistant Professor of Computer Science at the University of Texas at Dallas, starting Fall 2025.</p>
 
-I am a final-year Ph.D. candidate at the University of Virginia (UVA), where I am a member of the [LESS](https://less-lab-uva.github.io/) lab, advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). My research leverages program analysis and AI/ML techniques to automate and improve effectiveness of various software engineering tasks, including testing, debugging, and program repair. More details on my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
+I recently earned my Ph.D. in Computer Science from the University of Virginia, where I was advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I use artificial intelligence to automate and improve the effectiveness of various software engineering tasks—such as testing, debugging, and program repair—making software more reliable and development more efficient. My work has been published in top-tier venues (e.g., ICSE, FSE, NeurIPS) and integrated into tools used by industry leaders like AWS and Lockheed Martin. More details on my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
 
 <p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
-🌟 Big news! I will be joining the University of Texas at Dallas (UTD) as an Assistant Professor of Computer Science starting Fall 2025! I’m looking to hire 2–3 fully funded PhD students in the area of AI for Software Engineering. If you're interested, feel free to read some of my recent papers and reach out with a couple of new ideas or extensions you'd be excited to work on.
+🌟 I am currently recruiting Ph.D. students interested in AI for Software Engineering. If you're passionate about research at this intersection, feel free to reach out—especially after reading some of my recent papers and thinking about ideas or extensions you'd be excited to explore.
 </p>
 
 
