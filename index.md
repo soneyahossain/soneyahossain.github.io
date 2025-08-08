@@ -2,10 +2,8 @@
 layout: page
 title: About
 ---
-<p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
-I am an Assistant Professor of Computer Science in the Erik Jonsson School of Engineering and Computer Science at the University of Texas at Dallas, where I began on August 1, 2025. UTD is ranked <a href="https://csrankings.org/#/index?soft&us" style="color:#ff6600; font-weight:bold; text-decoration:none;">#7 in Software Engineering</a> in CSRankings.
-</p>
 
+I am an Assistant Professor of Computer Science in the Erik Jonsson School of Engineering and Computer Science at the University of Texas at Dallas, where I began on August 1, 2025. UTD is ranked <a href="https://csrankings.org/#/index?soft&us" style="color:#ff6600; font-weight:bold; text-decoration:none;">#7 in Software Engineering</a> in CSRankings.
 
 I earned my Ph.D. in Computer Science from the University of Virginia in Summer 2025, where I was advised by <a href="https://matthewbdwyer.github.io/">Dr. Matthew Dwyer</a>. My research combines program analysis and artificial intelligence to automate and enhance various software engineering tasks—such as testing, debugging, and program repair—with the goal of making software more reliable and development more cost-efficient. During my Ph.D., I collaborated with Lockheed Martin and multiple teams at AWS, including CodeGuru, CodeCatalyst, and AWS AI Labs, and my work has been published in premier venues (e.g., ICSE, FSE, NeurIPS).
 
