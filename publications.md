@@ -9,13 +9,13 @@ title: Publications
 1. **Doc2OracLL: Investigating the Impact of Documentation on LLM-based Test Oracle Generation**  
    **Soneya Binta Hossain**, Raygan Taylor, Matthew Dwyer
    The ACM International Conference on the Foundations of Software Engineering (**FSE 2025**)
-    - [\[Paper\]](https://arxiv.org/abs/2412.09360)
+    - [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3729354)
 
 
 3. **TOGLL: Correct and Strong Test Oracle Generation with LLMs**  
    **Soneya Binta Hossain**, Matthew Dwyer  
    The 47th International Conference on Software Engineering (**ICSE 2025**)  
-   - [\[Paper\]](https://doi.org/10.48550/arXiv.2405.03786)
+   - [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11029748)
 
 4. **A Deep Dive into Large Language Models for Automated Bug Localization and Repair**  
    **Soneya Binta Hossain**, Nan Jiang, Qiang Zhou, Xiaopeng Li, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, Omer Tripp  
@@ -47,18 +47,3 @@ title: Publications
    [Acceptance Rate: 21%]  
    - [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3611643.3616265)  [\[Talk\]](assets/presentations/FSE-2023-talk.pdf)  [\[Artifact\]](https://doi.org/10.6084/m9.figshare.21973091.v4)
 
-
----
-
-### Conference Papers (In Submission)
-
-1. **Predictive Mutation Testing via Graph Neural Networks**  
-   Will Leeson, **Soneya Binta Hossain**, Matthew Dwyer  
-
----
-
-### Preprint
-
-1. **Oracle-based Test Adequacy Metrics: A Survey**  
-   *Soneya Binta Hossain, Matthew Dwyer*  
-   - [Paper](https://arxiv.org/pdf/2212.06118.pdf)  
