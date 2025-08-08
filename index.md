@@ -2,15 +2,12 @@
 layout: page
 title: About
 ---
-
-<p style="color:#ff6600; font-weight:bold; font-size:1.1em;">I am an incoming Assistant Professor of Computer Science at the University of Texas at Dallas, starting Fall 2025.</p>
-
-I recently earned my Ph.D. in Computer Science from the University of Virginia, where I was advised by [Dr. Matthew Dwyer](https://matthewbdwyer.github.io/). I use artificial intelligence to automate and improve the effectiveness of various software engineering tasks—such as testing, debugging, and program repair—making software more reliable and development more efficient. My work has been published in top-tier venues (e.g., ICSE, FSE, NeurIPS) and integrated into tools used by industry leaders like AWS and Lockheed Martin. More details on my [CV]({{'/'|relative_url}}assets/CV/CV.pdf).
-
 <p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
-🌟 I am currently recruiting Ph.D. students interested in AI for Software Engineering. If you're passionate about research at this intersection, feel free to reach out—especially after reading some of my recent papers and thinking about ideas or extensions you'd be excited to explore.
+I am an Assistant Professor of Computer Science in the Erik Jonsson School of Engineering and Computer Science at the University of Texas at Dallas, where I began on August 1, 2025. UTD is ranked <a href="https://csrankings.org/#/index?soft&us" style="color:#ff6600; font-weight:bold; text-decoration:none;">#7 in Software Engineering</a> in CSRankings.
 </p>
 
+
+I earned my Ph.D. in Computer Science from the University of Virginia in Summer 2025, where I was advised by <a href="https://matthewbdwyer.github.io/">Dr. Matthew Dwyer</a>. My research combines program analysis and artificial intelligence to automate and enhance various software engineering tasks—such as testing, debugging, and program repair—with the goal of making software more reliable and development more cost-efficient. During my Ph.D., I collaborated with Lockheed Martin and multiple teams at AWS, including CodeGuru, CodeCatalyst, and AWS AI Labs, and my work has been published in premier venues (e.g., ICSE, FSE, NeurIPS).
 
 
 ### Education
@@ -30,11 +27,15 @@ I recently earned my Ph.D. in Computer Science from the University of Virginia, 
 
 
 ### News
-- **April 25, 2025**: I successfully defended my PhD and officially became Dr. Soneya Binta Hossain!
-- **April 2025**: My paper [Doc2Oracle: Investigating the Impact of Javadoc Comments on Test Oracle Generation](https://arxiv.org/abs/2412.09360) is accepted at FSE'25 Research Track.
-- **Nov 2024**: My paper [TOGLL: Correct and Strong Test Oracle Generation with LLMs](https://doi.org/10.48550/arXiv.2405.03786) is accepted at ICSE'25 Research Track.
+- **August 1, 2025**: Joined CS@UTD as a Tenure-track Assistant Professor.  
+- **July 25, 2025**: Relocated to Dallas, TX from beautiful Virginia.  
+- **June 25, 2025**: Attended FSE 2025 in Trondheim, Norway, and presented my paper [Doc2OracLL](https://dl.acm.org/doi/abs/10.1145/3729354).  
+- **April 25, 2025**: Attended ICSE 2025 in Ottawa, Canada, and presented my paper [TOGLL](https://ieeexplore.ieee.org/document/11029748).  
+- **April 25, 2025**: I successfully defended my PhD and officially became Dr. Soneya Binta Hossain!  
+- **April 2025**: My paper [Doc2Oracle: Investigating the Impact of Javadoc Comments on Test Oracle Generation](https://dl.acm.org/doi/abs/10.1145/3729354) is accepted at FSE'25 Research Track.
+- **Nov 2024**: My paper [TOGLL: Correct and Strong Test Oracle Generation with LLMs](https://ieeexplore.ieee.org/document/11029748) is accepted at ICSE'25 Research Track.
 - **Sep 2024**: Received travel grant to attend the SWE24 — the world's largest conference for women in engineering and technology—from October 23–26 in Chicago, IL.
-- **Sep 2024**: Received UVA's most prestigious endowed fellowship! This fellowship is awarded to outstanding doctoral students with an award of $12,000.
+- **Sep 2024**: Received UVA's most prestigious Endowed Fellowship! This fellowship is awarded to outstanding doctoral students with an award of $12,000.
 - **May 2024**: Received Master of Computer Science (MCS) from UVA with a CGPA of 4.0/4.0! [\[gallery\]](graduation.md)
 - **May 2024**:  Defended my PhD dissertation proposal, titled *Assessing and Improving Critical Properties of Test Oracles for
 Effective Software Bug Detection* [\[gallery\]](proposal.md)
