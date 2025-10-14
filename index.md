@@ -7,6 +7,9 @@ I am an Assistant Professor of Computer Science in the Erik Jonsson School of En
 
 I earned my Ph.D. in Computer Science from the University of Virginia in Summer 2025, where I was advised by <a href="https://matthewbdwyer.github.io/">Dr. Matthew Dwyer</a>. My research combines program analysis and artificial intelligence to automate and enhance various software engineering tasks—such as testing, debugging, and program repair—with the goal of making software more reliable and development more cost-efficient. During my Ph.D., I collaborated with Lockheed Martin and multiple teams at AWS, including CodeGuru, CodeCatalyst, and AWS AI Labs, and my work has been published in premier venues (e.g., ICSE, FSE, NeurIPS).
 
+<p style="color:#ff6600; font-weight:bold; font-size:1.1em;">
+🌟I’m looking to hire 2–3 fully funded PhD students in the area of AI for Software Engineering (Requirement Engineering, Testing, Debugging, Bug Detection and Reapir). If you're interested, feel free to read some of my recent papers and reach out with a couple of new ideas or extensions you'd be excited to work on.
+</p>
 
 ### Education
 
