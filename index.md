@@ -7,21 +7,22 @@ I am an Assistant Professor of Computer Science in the Erik Jonsson School of En
 
 I earned my Ph.D. in Computer Science from the University of Virginia in Summer 2025, where I was advised by <a href="https://matthewbdwyer.github.io/">Dr. Matthew Dwyer</a>. My research combines program analysis and artificial intelligence to automate and enhance various software engineering tasks—such as testing, debugging, and program repair—with the goal of making software more reliable and development more cost-efficient. During my Ph.D., I collaborated with Lockheed Martin and multiple teams at AWS, including CodeGuru, CodeCatalyst, and AWS AI Labs, and my work has been published in premier venues (e.g., ICSE, FSE, NeurIPS).
 
-<p style="color:#ff6600; font-weight:bold; font-size:1.1em; line-height:1.6;"> 🌟 <strong>Exciting Opportunities!</strong><br><br>
+<div style="background-color:#fff4e6; border-radius:12px; padding:18px 24px; border:2px solid #ff6600; line-height:1.6; font-weight:bold; font-size:1.1em; color:#333;"> <p> <span style="font-size:1.3em; color:#ff6600;">🚀 <strong>Join Us!</strong></span><br><br>
 
-🚀 I’m recruiting <strong>2–3 fully funded PhD students</strong> in <strong>AI for Software Engineering</strong> — focusing on requirements engineering, testing, debugging, bug detection, and repair.
-If this excites you, explore my recent papers and reach out with ideas or extensions you’d love to pursue.
+I’m recruiting <strong>2–3 fully funded PhD students</strong> in <strong>AI for Software Engineering</strong> — focusing on <em>requirements, testing, debugging, and repair</em>.
+If you’re passionate about building intelligent tools for reliable software, explore my recent papers and email me with ideas you’d love to pursue.
 <br><br>
 
-💡 <strong>UTD Undergraduates:</strong> Join my <strong>RIDE projects</strong> for hands-on research experience — email me or <a href="mailto:Joshua.Summers@UTDallas.edu" style="color:#ff6600;">Joshua.Summers@UTDallas.edu
+💡 <strong>UTD Undergraduates:</strong> Join my <strong>RIDE projects</strong> — email me or <a href="mailto:Joshua.Summers@UTDallas.edu" style="color:#ff6600;">Joshua.Summers@UTDallas.edu
 </a>.
 <br><br>
 
-🌍 <strong>International Students:</strong> Interested in our work? Email me about the <strong>remote internship program</strong>.
+🌍 <strong>International Students:</strong> Ask about our <strong>remote internship opportunities</strong>.
 <br><br>
 
-✨ Let’s shape the future of software with AI!
-</p>
+✨ Let’s advance Software Engineering with AI!
+
+</p> </div>
 
 ### Education
 
